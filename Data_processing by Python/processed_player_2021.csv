@@ -1,0 +1,949 @@
+name,pay,age,nationality,shooting,passing,dribbling,Intercept,Stealing,goalkeeper_skill,team_position,team_jersey_number,value,club_name
+L. Messi,560000,33,Argentina,92,91,95,35,24,0,midfielder,10,67500000,Barcelona
+Cristiano Ronaldo,220000,35,Portugal,93,81,89,32,24,0,attacker,7,46000000,Juventus
+J. Oblak,125000,27,Slovenia,0,0,0,12,18,90,goalkeeper,13,75000000,Atletico Madrid
+R. Lewandowski,240000,31,Poland,91,78,85,42,19,0,attacker,9,80000000,Bayern Munich
+Neymar Jr,270000,28,Brazil,85,86,94,30,29,0,attacker,10,90000000,Paris Saint-Germain
+K. De Bruyne,370000,29,Belgium,86,93,88,65,53,0,midfielder,17,87000000,Manchester City
+K. Mbappe,160000,21,France,86,78,91,34,32,0,attacker,7,105500000,Paris Saint-Germain
+M. ter Stegen,260000,28,Germany,0,0,0,13,10,88,goalkeeper,1,69500000,Barcelona
+V. van Dijk,210000,28,Netherlands,60,71,71,93,86,0,defender,4,75500000,Liverpool
+Alisson,160000,27,Brazil,0,0,0,19,16,91,goalkeeper,1,62500000,Liverpool
+S. Mane,250000,28,Senegal,85,80,90,42,38,0,attacker,10,78000000,Liverpool
+M. Salah,250000,28,Egypt,86,81,90,43,41,0,attacker,11,78000000,Liverpool
+T. Courtois,250000,28,Belgium,0,0,0,18,16,85,goalkeeper,1,56000000,Real Madrid
+S. Aguero,300000,32,Argentina,90,77,88,29,24,0,attacker,10,53000000,Manchester City
+Sergio Ramos,300000,34,Spain,70,76,73,88,90,0,defender,4,24500000,Real Madrid
+K. Benzema,350000,32,France,85,81,86,24,18,0,attacker,9,53000000,Real Madrid
+M. Neuer,125000,34,Germany,0,0,0,10,11,86,goalkeeper,1,29000000,Bayern Munich
+Casemiro,310000,28,Brazil,73,76,72,88,87,0,midfielder,14,59500000,Real Madrid
+Ederson,195000,26,Brazil,0,0,0,15,8,86,goalkeeper,31,53500000,Manchester City
+R. Sterling,270000,25,England,81,79,90,53,47,0,attacker,7,72500000,Manchester City
+J. Kimmich,145000,25,Germany,72,86,84,84,79,0,midfielder,6,65000000,Bayern Munich
+P. Dybala,190000,26,Argentina,85,84,92,48,40,0,attacker,10,71000000,Juventus
+S. Handanovicç,100000,35,Slovenia,0,0,0,10,13,89,goalkeeper,1,16000000,Inter Milan
+T. Kroos,310000,30,Germany,81,91,81,73,60,0,midfielder,8,55000000,Real Madrid
+E. Hazard,350000,29,Belgium,82,83,92,27,22,0,attacker,7,58000000,Real Madrid
+N. Kante,190000,29,France,66,76,81,92,90,0,midfielder,7,51000000,Chelsea
+J. Sancho,82000,20,England,74,81,91,41,32,0,attacker,7,69500000,Borussia Dortmund
+T. Alexander-Arnold,110000,21,England,66,87,80,83,79,0,defender,66,60000000,Liverpool
+Bruno Fernandes,195000,25,Portugal,83,88,85,67,55,0,midfielder,18,63000000,Manchester United
+A. Laporte,200000,26,France,50,72,68,89,88,0,defender,14,56000000,Manchester City
+Fabinho,155000,26,Brazil,69,79,77,87,85,0,midfielder,3,54500000,Liverpool
+A. Robertson,155000,26,Scotland,62,80,80,84,81,0,defender,26,53000000,Liverpool
+Bernardo Silva,230000,25,Portugal,77,83,92,59,40,0,midfielder,20,60000000,Manchester City
+G. Chiellini,94000,35,Italy,46,58,60,90,88,0,defender,3,15500000,Juventus
+L. Suarez,280000,33,Uruguay,90,82,83,45,38,0,attacker,9,31500000,Barcelona
+L. Modric,260000,34,Croatia,76,89,88,75,71,0,midfielder,10,24500000,Real Madrid
+A. Di Maria,160000,32,Argentina,81,85,88,55,52,0,attacker,11,39000000,Paris Saint-Germain
+W. Szczesny,105000,30,Poland,0,0,0,13,12,87,goalkeeper,1,34000000,Juventus
+Sergio Busquets,240000,31,Spain,62,80,80,83,80,0,midfielder,5,38000000,Barcelona
+C. Immobile,125000,30,Italy,88,67,83,33,32,0,attacker,17,48500000,Lazio
+K. Navas,110000,33,Costa Rica,0,0,0,14,14,82,goalkeeper,1,27000000,Paris Saint-Germain
+A. Griezmann,290000,29,France,85,84,88,54,49,0,attacker,7,50500000,Barcelona
+Roberto Firmino,190000,28,Brazil,80,81,90,64,42,0,attacker,9,52000000,Liverpool
+R. Varane,220000,27,France,49,64,64,87,86,0,defender,5,46500000,Real Madrid
+P. Pogba,190000,27,France,81,86,85,67,65,0,midfielder,6,50000000,Manchester United
+M. Verratti,135000,27,Italy,60,85,90,82,83,0,midfielder,6,50000000,Paris Saint-Germain
+A. Gomez,100000,32,Argentina,79,84,88,30,34,0,attacker,10,34500000,Atalanta
+Pique,220000,33,Spain,61,71,67,86,84,0,defender,3,21000000,Barcelona
+Y. Sommer,55000,31,Switzerland,0,0,0,19,12,87,goalkeeper,1,28500000,Borussia Mionchengladbach
+M. Hummels,93000,31,Germany,58,77,72,88,86,0,defender,15,33000000,Borussia Dortmund
+J. Henderson,140000,30,England,74,84,79,83,77,0,midfielder,14,36500000,Liverpool
+Jordi Alba,220000,31,Spain,69,81,83,80,82,0,defender,18,32000000,Barcelona
+T. Muller,130000,30,Germany,82,82,78,57,46,0,midfielder,25,42000000,Bayern Munich
+De Gea,150000,29,Spain,0,0,0,21,13,82,goalkeeper,1,31500000,Manchester United
+Carvajal,230000,28,Spain,54,78,80,83,85,0,defender,2,38000000,Real Madrid
+K. Havertz,105000,21,Germany,85,79,85,46,38,0,midfielder,29,57000000,Chelsea
+M. de Ligt,80000,20,Netherlands,59,66,69,85,82,0,substitute,4,49500000,Juventus
+M. Rashford,150000,22,England,83,78,86,40,33,0,midfielder,10,53000000,Manchester United
+L. Sane,100000,24,Germany,81,79,86,32,35,0,midfielder,10,51500000,Bayern Munich
+F. de Jong,190000,23,Netherlands,64,84,87,76,77,0,midfielder,21,50500000,Barcelona
+Marquinhos,115000,26,Brazil,41,73,70,87,87,0,defender,5,44000000,Paris Saint-Germain
+C. Lenglet,190000,25,France,45,67,65,86,81,0,defender,15,44500000,Barcelona
+S. Milinkovic-Savic,94000,25,Serbia,79,80,83,79,74,0,midfielder,21,49000000,Lazio
+M. Skriniar,130000,25,Slovakia,41,59,66,87,83,0,defender,37,44500000,Inter Milan
+T. Werner,135000,24,Germany,85,69,84,20,19,0,attacker,11,49500000,Chelsea
+Rodri,145000,24,Spain,68,77,77,84,78,0,midfielder,16,44000000,Manchester City
+S. Gnabry,100000,24,Germany,83,78,86,44,43,0,midfielder,7,47500000,Bayern Munich
+R. Lukaku,165000,27,Belgium,83,76,75,41,30,0,attacker,9,45000000,Inter Milan
+Luis Alberto,99000,27,Spain,76,86,85,68,45,0,midfielder,10,44000000,Lazio
+M. Icardi,135000,27,Argentina,85,65,78,24,20,0,attacker,9,45000000,Paris Saint-Germain
+H. Ziyech,140000,27,Morocco,76,87,84,56,40,0,midfielder,22,44000000,Chelsea
+Thiago Silva,93000,35,Brazil,54,72,71,86,84,0,defender,6,11500000,Chelsea
+M. Pjanic,220000,30,Bosnia Herzegovina,68,87,85,76,70,0,midfielder,8,35500000,Barcelona
+G. Wijnaldum,150000,29,Netherlands,75,81,86,79,69,0,midfielder,5,37000000,Liverpool
+D. Godan,135000,34,Uruguay,48,64,61,86,84,0,defender,2,14500000,Inter Milan
+L. Bonucci,110000,33,Italy,58,69,70,86,80,0,defender,19,18000000,Juventus
+P. Gulacsi,65000,30,Hungary,0,0,0,16,20,84,goalkeeper,1,26000000,RB Leipzig
+M. Reus,94000,31,Germany,86,84,85,37,45,0,midfielder,11,34000000,Borussia Dortmund
+K. Walker,170000,30,England,63,76,77,83,82,0,defender,2,30500000,Manchester City
+Thiago,150000,29,Spain,72,85,90,71,68,0,substitute,6,37000000,Liverpool
+C. Eriksen,155000,28,Denmark,81,88,81,57,22,0,midfielder,24,39000000,Inter Milan
+Alex Sandro,120000,29,Brazil,65,77,80,81,82,0,substitute,12,31500000,Juventus
+Koke,92000,28,Spain,75,85,81,80,70,0,midfielder,6,38000000,Atletico Madrid
+R. Mahrez,210000,29,Algeria,79,81,90,31,22,0,attacker,26,37500000,Manchester City
+E. Haaland,56000,19,Norway,87,63,80,38,30,0,attacker,9,45000000,Borussia Dortmund
+L. Martanez,130000,22,Argentina,82,71,85,31,44,0,attacker,10,44500000,Inter Milan
+N. Sule,84000,24,Germany,42,59,49,88,87,0,substitute,4,37500000,Bayern Munich
+Arthur,98000,23,Brazil,73,82,87,79,70,0,substitute,5,41000000,Juventus
+L. Goretzka,105000,25,Germany,78,80,82,79,75,0,midfielder,18,39500000,Bayern Munich
+Grimaldo,20000,24,Spain,65,79,84,78,79,0,defender,3,35500000,Benfica
+A. Martial,155000,24,France,83,74,87,39,36,0,attacker,9,41000000,Manchester United
+J. Brandt,75000,24,Germany,78,82,87,55,57,0,substitute,19,40500000,Borussia Dortmund
+K. Coman,94000,24,France,76,77,87,27,21,0,substitute,29,40500000,Bayern Munich
+J. Gimenez,70000,25,Uruguay,45,53,54,87,86,0,defender,2,36000000,Atletico Madrid
+A. Onana,18000,24,Cameroon,0,0,0,18,14,82,goalkeeper,24,30000000,Ajax
+Saul,77000,25,Spain,79,79,81,78,77,0,midfielder,8,38500000,Atletico Madrid
+R. Burki,67000,29,Switzerland,0,0,0,13,16,82,goalkeeper,1,25000000,Borussia Dortmund
+S. de Vrij,130000,28,Netherlands,41,62,68,87,85,0,defender,6,30500000,Inter Milan
+R. Guerreiro,86000,26,Portugal,78,84,87,76,78,0,midfielder,13,36500000,Borussia Dortmund
+T. Partey,81000,27,Ghana,74,81,81,85,81,0,midfielder,5,35000000,Atletico Madrid
+Alex Telles,23000,27,Brazil,74,83,81,81,79,0,defender,13,31000000,Porto
+M. Brozovic,125000,27,Croatia,74,80,81,81,79,0,midfielder,77,32000000,Inter Milan
+Fernandinho,110000,35,Brazil,72,78,78,86,83,0,defender,25,9500000,Manchester City
+Jesus Navas,43000,34,Spain,69,79,83,78,80,0,defender,16,11000000,Sevilla
+Lucas Leiva,83000,33,Brazil,66,76,78,84,81,0,midfielder,6,15000000,Lazio
+A. Witsel,79000,31,Belgium,73,81,79,80,81,0,midfielder,28,23500000,Borussia Dortmund
+Azpilicueta,120000,30,Spain,55,77,72,85,85,0,defender,28,24500000,Chelsea
+Douglas Costa,120000,29,Brazil,73,79,91,38,34,0,substitute,11,30500000,Juventus
+J. Corona,25000,27,Mexico,68,78,88,77,76,0,defender,17,32500000,Porto
+I. Gueye,105000,30,Senegal,61,71,78,90,83,0,midfielder,27,25500000,Paris Saint-Germain
+D. Alaba,105000,28,Austria,70,81,79,83,82,0,defender,27,27500000,Bayern Munich
+Isco,210000,28,Spain,75,82,90,64,51,0,substitute,22,31500000,Real Madrid
+Pizzi,25000,30,Portugal,78,83,83,67,52,0,midfielder,21,29500000,Benfica
+J. Ilicçic,92000,32,Slovenia,86,84,85,32,26,0,attacker,72,25000000,Atalanta
+Felipe,74000,31,Brazil,41,58,61,86,83,0,defender,18,23000000,Atletico Madrid
+N. Tagliafico,27000,27,Argentina,56,73,76,80,81,0,defender,31,27500000,Ajax
+F. Valverde,135000,21,Uruguay,74,78,79,80,76,0,substitute,15,36000000,Real Madrid
+M. odegaard,135000,21,Norway,75,84,85,49,51,0,substitute,21,36000000,Real Madrid
+O. Dembele,175000,23,France,77,77,87,30,33,0,attacker,11,35500000,Barcelona
+T. Strakosha,57000,25,Albania,0,0,0,18,12,81,goalkeeper,1,25500000,Lazio
+J. Gomez,93000,23,England,30,66,69,85,82,0,defender,12,31000000,Liverpool
+F. Mendy,160000,25,France,64,76,79,81,80,0,defender,23,30500000,Real Madrid
+A. Wan-Bissaka,115000,22,England,51,68,80,85,90,0,defender,29,30500000,Manchester United
+A. Hakimi,92000,21,Morocco,70,76,82,74,76,0,midfielder,98,35000000,Inter Milan
+D. van de Beek,125000,23,Netherlands,80,78,78,74,68,0,substitute,34,33000000,Manchester United
+D. Zakaria,45000,23,Switzerland,64,75,77,84,80,0,midfielder,8,30500000,Borussia Mionchengladbach
+Gabriel Jesus,150000,23,Brazil,82,72,87,30,28,0,attacker,9,34500000,Manchester City
+S. Umtiti,170000,26,France,62,69,69,84,83,0,defender,23,28500000,Barcelona
+M. Kovacçic,120000,26,Croatia,69,83,88,73,66,0,midfielder,17,31500000,Chelsea
+Joao Cancelo,140000,26,Portugal,65,79,83,80,80,0,substitute,27,28000000,Manchester City
+Nelson Semedo,170000,26,Portugal,57,69,82,81,80,0,defender,2,28000000,Barcelona
+M. Sabitzer,73000,26,Austria,83,80,80,64,59,0,midfielder,7,31000000,RB Leipzig
+Diego Carlos,39000,27,Brazil,47,63,67,82,81,0,defender,20,27000000,Sevilla
+J. Matip,115000,28,Cameroon,46,68,68,86,80,0,substitute,32,25500000,Liverpool
+Juan Bernat,95000,27,Spain,64,79,83,81,78,0,substitute,14,25500000,Paris Saint-Germain
+S. Mandanda,28000,35,France,0,0,0,15,13,81,goalkeeper,30,7000000,Marseille
+J. Vertonghen,21000,33,Belgium,62,72,71,85,86,0,defender,5,12000000,Benfica
+Marcelo,170000,32,Brazil,73,80,88,77,79,0,substitute,12,16000000,Real Madrid
+R. Nainggolan,125000,32,Belgium,80,80,83,86,90,0,substitute,44,20000000,Inter Milan
+A. Vidal,125000,33,Chile,79,79,78,86,83,0,substitute,22,15000000,Inter Milan
+Fernando,39000,32,Brazil,62,74,73,83,81,0,midfielder,25,17000000,Sevilla
+K. Trippier,71000,29,England,60,81,77,83,81,0,defender,23,21500000,Atletico Madrid
+I. Gundogan,160000,29,Germany,74,84,84,74,67,0,substitute,8,25000000,Manchester City
+Coutinho,190000,28,Brazil,79,82,89,54,47,0,midfielder,17,26000000,Barcelona
+D. Tadic,30000,31,Serbia,80,84,84,34,26,0,attacker,10,23500000,Ajax
+Sergi Roberto,175000,28,Spain,63,81,78,79,78,0,substitute,20,22000000,Barcelona
+F. Acerbi,75000,32,Italy,50,62,63,87,85,0,defender,33,16500000,Lazio
+T. Hazard,78000,27,Belgium,77,81,86,46,48,0,substitute,10,27000000,Borussia Dortmund
+Jorginho,125000,28,Italy,65,84,80,80,71,0,midfielder,5,25500000,Chelsea
+D. Zapata,87000,29,Colombia,81,59,78,24,22,0,attacker,91,26000000,Atalanta
+Rafa,23000,27,Portugal,73,74,87,47,39,0,midfielder,27,27000000,Benfica
+M. Acuia,41000,28,Argentina,74,82,86,82,79,0,substitute,19,22000000,Sevilla
+L. Hernandez,70000,24,France,54,70,71,84,86,0,substitute,21,26500000,Bayern Munich
+Kepa,76000,25,Spain,0,0,0,18,16,79,goalkeeper,1,21000000,Chelsea
+Marco Asensio,160000,24,Spain,80,81,83,42,39,0,substitute,11,29000000,Real Madrid
+K. Laimer,53000,23,Austria,68,78,78,79,75,0,midfielder,27,26000000,RB Leipzig
+H. Maguire,120000,27,England,53,69,71,83,79,0,defender,5,24000000,Manchester United
+A. Correa,65000,25,Argentina,80,75,87,53,44,0,midfielder,10,28000000,Atletico Madrid
+Marcos Llorente,65000,25,Spain,74,79,81,80,74,0,substitute,14,27500000,Atletico Madrid
+E. Can,72000,26,Germany,78,79,80,86,80,0,defender,23,26500000,Borussia Dortmund
+Morata,73000,27,Spain,80,71,81,14,20,0,attacker,9,26000000,Atletico Madrid
+L. Ocampos,40000,25,Argentina,83,78,83,61,55,0,attacker,5,26500000,Sevilla
+M. Ginter,48000,26,Germany,58,70,65,86,77,0,defender,28,23000000,Borussia Mionchengladbach
+G. Buffon,41000,42,Italy,0,0,0,11,11,91,goalkeeper,77,2200000,Juventus
+I. Rakitic,39000,32,Croatia,79,85,78,77,72,0,midfielder,10,17000000,Sevilla
+D. Payet,59000,33,France,79,84,85,39,39,0,attacker,10,13500000,Marseille
+I. PeriSic,115000,31,Croatia,81,78,78,52,54,0,substitute,14,19500000,Inter Milan
+J. Boateng,82000,31,Germany,50,72,65,87,84,0,defender,17,16500000,Bayern Munich
+A. Kolarov,105000,34,Serbia,74,81,76,83,81,0,substitute,11,8000000,Inter Milan
+A. Ramsey,98000,29,Wales,77,79,80,72,68,0,midfielder,8,21500000,Juventus
+D. Blind,23000,30,Netherlands,65,81,78,84,80,0,defender,17,18000000,Ajax
+Mario Fernandes,500,29,Russia,61,74,79,81,83,0,defender,2,18500000,PFC CSKA Moscow
+Neto,125000,30,Brazil,0,0,0,14,15,79,goalkeeper,13,15000000,Barcelona
+Danilo Pereira,20000,28,Portugal,63,72,73,83,68,0,midfielder,22,20000000,Porto
+A. Marchesan,16000,32,Argentina,0,0,0,15,15,81,goalkeeper,32,13500000,Porto
+T. Vaclak,29000,31,Czech Republic,0,0,0,18,18,81,goalkeeper,1,14000000,Sevilla
+F. Thauvin,59000,27,France,80,81,82,29,31,0,attacker,26,23000000,Marseille
+Y. Carrasco,67000,26,Belgium,81,75,84,39,26,0,substitute,21,24000000,Atletico Madrid
+Q. Promes,26000,28,Netherlands,80,79,82,48,40,0,midfielder,11,22500000,Ajax
+M. Halstenberg,64000,28,Germany,66,73,72,82,76,0,defender,23,19000000,RB Leipzig
+R. Gosens,68000,25,Germany,74,78,77,78,79,0,midfielder,8,24000000,Atalanta
+Joao Felix,51000,20,Portugal,81,74,83,42,35,0,attacker,7,32000000,Atletico Madrid
+A. Davies,40000,19,Canada,67,69,83,77,79,0,defender,19,22500000,Bayern Munich
+Ferran Torres,97000,20,Spain,76,78,80,24,28,0,substitute,21,26500000,Manchester City
+C. Pulisic,83000,21,United States,82,80,88,32,47,0,substitute,10,24500000,Chelsea
+Ruben Dias,15000,23,Portugal,38,54,59,84,81,0,defender,6,22000000,Benfica
+Renan Lodi,49000,22,Brazil,67,76,81,77,78,0,defender,12,21500000,Atletico Madrid
+O. Vlachodimos,14000,26,Greece,0,0,0,14,12,77,goalkeeper,99,17500000,Benfica
+Everton,17000,24,Brazil,75,73,85,33,29,0,midfielder,7,24000000,Benfica
+T. Lemar,54000,24,France,76,81,84,59,63,0,substitute,11,23000000,Atletico Madrid
+N. Keita,96000,25,Guinea,73,76,87,64,62,0,substitute,8,22500000,Liverpool
+P. Kimpembe,69000,24,France,39,67,67,84,81,0,defender,3,21000000,Paris Saint-Germain
+B. Pavard,65000,24,France,53,73,71,79,81,0,defender,5,20500000,Bayern Munich
+B. Chilwell,79000,23,England,52,74,78,79,82,0,substitute,21,20500000,Chelsea
+Raphinha,50000,23,Brazil,75,74,83,54,38,0,attacker,7,23000000,Rennes
+B. Mendy,115000,25,France,54,77,77,79,80,0,defender,22,19500000,Manchester City
+J. Correa,73000,25,Argentina,75,77,86,37,26,0,attacker,11,22500000,Lazio
+A. Rudiger,92000,27,Germany,43,67,63,85,82,0,substitute,2,18500000,Chelsea
+L. Shaw,97000,24,England,53,74,78,81,79,0,defender,23,19000000,Manchester United
+Fred,115000,27,Brazil,71,79,83,79,72,0,substitute,17,19000000,Manchester United
+S. Savic,60000,29,Montenegro,35,54,56,83,82,0,substitute,15,17000000,Atletico Madrid
+A. Rabiot,83000,25,France,74,78,79,81,75,0,midfielder,25,21000000,Juventus
+M. Lazzari,70000,26,Italy,62,77,82,53,48,0,midfielder,29,21000000,Lazio
+Pepe,13000,37,Portugal,51,60,60,83,82,0,defender,3,3600000,Porto
+H. Herrera,62000,30,Mexico,75,75,76,82,67,0,substitute,16,16500000,Atletico Madrid
+S. Mignolet,26000,32,Belgium,0,0,0,14,16,84,goalkeeper,88,11000000,Club Brugge
+Marcano,18000,33,Spain,46,60,59,83,80,0,substitute,5,8500000,Porto
+Javi Martanez,76000,31,Spain,55,69,63,84,84,0,substitute,8,13500000,Bayern Munich
+S. Khedira,87000,33,Germany,74,77,77,80,74,0,substitute,6,10500000,Juventus
+Marlos,500,32,Ukraine,78,78,86,46,42,0,midfielder,11,14000000,Shakhtar Donetsk
+Taison,500,32,Brazil,78,75,86,53,40,0,midfielder,7,14000000,Shakhtar Donetsk
+Marcos Alonso,96000,29,Spain,75,78,77,81,78,0,defender,3,14500000,Chelsea
+J. Cuadrado,79000,32,Colombia,72,78,88,78,81,0,midfielder,16,11000000,Juventus
+T. Delaney,63000,28,Denmark,73,73,74,81,84,0,substitute,6,16000000,Borussia Dortmund
+X. Shaqiri,105000,28,Switzerland,77,80,83,49,48,0,substitute,23,18000000,Liverpool
+K. Kampl,65000,29,Slovenia,67,80,85,63,59,0,substitute,44,17000000,RB Leipzig
+Pablo Sarabia,100000,28,Spain,76,82,83,54,49,0,substitute,19,18000000,Paris Saint-Germain
+Ismaily,500,30,Brazil,64,74,81,74,75,0,defender,31,14000000,Shakhtar Donetsk
+T. Meunier,63000,28,Belgium,73,76,74,79,77,0,midfielder,24,15000000,Borussia Dortmund
+Suso,39000,26,Spain,75,82,86,23,18,0,attacker,7,19000000,Sevilla
+A. Florenzi,84000,29,Italy,77,76,79,79,78,0,defender,24,14500000,Paris Saint-Germain
+S. Arias,60000,28,Colombia,53,70,76,79,78,0,substitute,4,15000000,Atletico Madrid
+M. de Roon,62000,29,Netherlands,68,72,72,82,81,0,midfielder,15,15000000,Atalanta
+Vinacius Jr.,95000,19,Brazil,69,71,87,25,18,0,substitute,20,27500000,Real Madrid
+N. Barella,86000,23,Italy,67,79,82,80,78,0,midfielder,23,20500000,Inter Milan
+N. Mukiele,46000,22,France,42,69,72,85,82,0,substitute,22,18500000,RB Leipzig
+M. Mount,69000,21,England,77,79,80,53,34,0,midfielder,19,21000000,Chelsea
+D. Henderson,70000,23,England,0,0,0,14,14,77,goalkeeper,26,16000000,Manchester United
+ader Militao,115000,22,Brazil,50,66,71,82,81,0,substitute,3,19000000,Real Madrid
+Diogo Jota,90000,23,Portugal,77,71,84,54,44,0,substitute,20,20500000,Liverpool
+M. Thuram,43000,22,France,80,70,80,49,37,0,midfielder,10,20500000,Borussia Mionchengladbach
+C. Nkunku,50000,22,France,74,80,85,72,70,0,midfielder,18,20500000,RB Leipzig
+N. VlaSic,500,22,Croatia,75,76,82,55,37,0,midfielder,8,20500000,PFC CSKA Moscow
+V. Tsygankov,500,22,Ukraine,73,78,80,36,37,0,midfielder,15,20500000,Dynamo Kyiv
+Angeliao,46000,23,Spain,66,80,81,77,74,0,defender,3,17500000,RB Leipzig
+L. Klostermann,46000,24,Germany,51,66,71,81,85,0,defender,16,18000000,RB Leipzig
+O. Zinchenko,96000,23,Ukraine,66,81,80,79,75,0,substitute,11,17500000,Manchester City
+L. Jovic,140000,22,Serbia,81,68,80,26,16,0,substitute,18,20000000,Real Madrid
+David Neres,21000,23,Brazil,73,73,86,32,32,0,midfielder,7,20000000,Ajax
+V. Lindeliof,100000,25,Sweden,50,72,72,83,80,0,defender,2,17000000,Manchester United
+J. Stones,110000,26,England,36,69,71,84,81,0,defender,5,16500000,Manchester City
+K. Zouma,82000,25,France,51,61,56,81,78,0,defender,15,16500000,Chelsea
+Otavio,17000,25,Brazil,69,78,85,52,43,0,midfielder,25,18500000,Porto
+D. Rugani,71000,25,Italy,39,55,64,83,80,0,substitute,24,16500000,Juventus
+C. Tolisso,74000,25,France,77,78,78,77,71,0,substitute,24,18500000,Bayern Munich
+V. Rongier,45000,25,France,73,76,80,84,71,0,midfielder,21,18500000,Marseille
+Mario Hermoso,51000,25,Spain,49,72,71,82,80,0,substitute,22,16500000,Atletico Madrid
+F. Bernardeschi,81000,26,Italy,75,80,84,54,50,0,substitute,33,18000000,Juventus
+N. Schulz,56000,27,Germany,51,74,75,74,76,0,substitute,14,14500000,Borussia Dortmund
+J. Draxler,82000,26,Germany,76,80,82,64,44,0,substitute,23,17500000,Paris Saint-Germain
+A. Plea,49000,27,France,83,77,79,40,30,0,attacker,14,17500000,Borussia Mionchengladbach
+Joao Mario,99000,27,Portugal,69,80,83,70,62,0,substitute,55,16500000,Inter Milan
+J. Milner,94000,34,England,70,82,77,80,79,0,substitute,7,7000000,Liverpool
+I. Akinfeev,500,34,Russia,0,0,0,13,13,82,goalkeeper,35,6500000,PFC CSKA Moscow
+S. Romero,85000,33,Argentina,0,0,0,11,15,79,goalkeeper,22,8000000,Manchester United
+L. Piszczek,41000,35,Poland,68,74,72,81,80,0,substitute,26,4500000,Borussia Dortmund
+Diego Costa,63000,31,Spain,79,65,74,39,30,0,substitute,19,13500000,Atletico Madrid
+A. Sanchez,105000,31,Chile,78,77,85,44,35,0,substitute,7,13000000,Inter Milan
+L. Stindl,45000,31,Germany,82,78,79,61,50,0,midfielder,13,13000000,Borussia Mionchengladbach
+L. de Jong,38000,29,Netherlands,78,70,69,43,37,0,attacker,9,15000000,Sevilla
+N. Matic,105000,31,Serbia,68,76,73,82,74,0,midfielder,31,11000000,Manchester United
+Escudero,31000,30,Spain,63,75,72,78,80,0,defender,18,11500000,Sevilla
+Andre Almeida,17000,29,Portugal,63,76,75,82,79,0,defender,34,12000000,Benfica
+G. Krychowiak,500,30,Poland,76,72,71,77,72,0,midfielder,7,12000000,Lokomotiv Moscow
+Nacho Fernandez,135000,30,Spain,37,66,66,83,82,0,substitute,6,12000000,Real Madrid
+S. Vrsaljko,56000,28,Croatia,55,73,75,80,77,0,substitute,24,12500000,Atletico Madrid
+Lucas Vazquez,165000,29,Spain,73,78,81,57,56,0,substitute,17,14500000,Real Madrid
+M. Vecino,94000,28,Uruguay,68,77,80,78,75,0,substitute,8,13000000,Inter Milan
+S. Lainer,41000,27,Austria,63,70,75,74,77,0,defender,18,13000000,Borussia Mionchengladbach
+D. Upamecano,36000,21,France,40,61,66,84,77,0,defender,5,20000000,RB Leipzig
+Rodrygo,90000,19,Brazil,75,70,83,36,32,0,attacker,27,21000000,Real Madrid
+P. Foden,86000,20,England,70,76,81,59,47,0,substitute,47,19500000,Manchester City
+B. Kamara,29000,20,France,46,71,71,79,77,0,midfielder,4,17000000,Marseille
+Dani Olmo,48000,22,Spain,76,77,83,50,44,0,midfielder,25,18500000,RB Leipzig
+F. Neuhaus,37000,23,Germany,69,76,81,65,64,0,midfielder,32,17500000,Borussia Mionchengladbach
+D. Zagadou,38000,21,France,34,61,50,87,80,0,substitute,5,16000000,Borussia Dortmund
+J. Kounde,21000,21,France,34,57,70,82,80,0,defender,12,16000000,Sevilla
+R. Bentancur,67000,23,Uruguay,58,79,82,76,71,0,substitute,30,17000000,Juventus
+Junior Firpo,110000,23,Spain,64,71,73,77,77,0,substitute,24,15500000,Barcelona
+A. Christensen,69000,24,Denmark,31,63,68,84,82,0,defender,4,15000000,Chelsea
+A. Miranchuk,50000,24,Russia,70,78,80,28,29,0,substitute,59,17000000,Atalanta
+Munir,30000,24,Spain,78,75,82,27,25,0,substitute,11,17000000,Sevilla
+S. McTominay,85000,23,Scotland,71,75,76,80,72,0,substitute,39,15500000,Manchester United
+Vinacius,18000,25,Brazil,80,57,75,33,25,0,attacker,95,17000000,Benfica
+N. Ake,100000,25,Netherlands,53,70,71,82,81,0,substitute,6,14500000,Manchester City
+V. Lazaro,37000,24,Austria,70,76,80,70,69,0,substitute,19,16500000,Borussia Mionchengladbach
+P. Gollini,40000,25,Italy,0,0,0,12,19,79,goalkeeper,95,12000000,Atalanta
+L. Paredes,78000,26,Argentina,70,80,78,77,76,0,substitute,8,15500000,Paris Saint-Germain
+Emerson,77000,25,Italy,63,70,79,77,76,0,substitute,33,14000000,Chelsea
+M. Sanson,42000,25,France,75,79,78,75,71,0,midfielder,8,15500000,Marseille
+J. Weigl,13000,24,Germany,48,75,75,78,74,0,midfielder,28,14500000,Benfica
+R. Bensebaini,37000,25,Algeria,57,71,74,77,77,0,defender,25,14000000,Borussia Mionchengladbach
+Joan Jordan,30000,25,Spain,75,79,77,76,54,0,midfielder,8,15500000,Sevilla
+E. Bailly,100000,26,Ivory Coast,42,58,62,80,81,0,substitute,3,14000000,Manchester United
+Odriozola,110000,24,Spain,52,71,77,76,77,0,substitute,19,14000000,Real Madrid
+W. Orban,50000,27,Hungary,36,52,54,83,78,0,substitute,4,13000000,RB Leipzig
+T. Bakayoko,77000,25,France,48,68,75,81,79,0,substitute,40,14000000,Chelsea
+E. Mendy,40000,28,Senegal,0,0,0,11,13,79,goalkeeper,16,11000000,Rennes
+N. Gudelj,30000,28,Serbia,70,78,70,77,71,0,substitute,6,12500000,Sevilla
+A. Oxlade-Chamberlain,89000,26,England,74,78,83,72,68,0,substitute,15,14500000,Liverpool
+Rafinha,140000,27,Brazil,76,79,84,72,66,0,midfielder,12,14000000,Barcelona
+Gabriel,17000,26,Brazil,74,77,79,77,73,0,midfielder,8,14500000,Benfica
+R. Malinovskyi,58000,27,Ukraine,79,81,78,72,50,0,substitute,18,14000000,Atalanta
+Pepe Reina,30000,37,Spain,0,0,0,22,24,80,goalkeeper,50,1300000,Lazio
+Rafinha,500,34,Brazil,46,74,78,78,82,0,defender,13,4400000,Olympiacos
+M. Valbuena,500,35,France,76,80,81,26,34,0,midfielder,28,5500000,Olympiacos
+Juan Mata,110000,32,Spain,72,82,82,31,21,0,substitute,8,10000000,Manchester United
+O. Giroud,96000,33,France,83,70,71,37,20,0,attacker,18,8000000,Chelsea
+V. cÜorluka,500,34,Croatia,49,65,67,83,82,0,defender,14,4700000,Lokomotiv Moscow
+M. Parolo,40000,35,Italy,76,75,75,79,80,0,substitute,16,4000000,Lazio
+S. Ulreich,54000,31,Germany,0,0,0,18,14,79,goalkeeper,26,8000000,Bayern Munich
+"Y. M""Vila",500,30,France,62,74,73,76,72,0,midfielder,6,10500000,Olympiacos
+S. Nzonzi,47000,31,France,55,71,68,77,74,0,midfielder,15,9500000,Rennes
+C. Smalling,100000,30,England,47,58,59,82,81,0,substitute,12,10000000,Manchester United
+Ander Herrera,78000,30,Spain,72,77,79,82,78,0,substitute,21,11500000,Paris Saint-Germain
+N. Otamendi,105000,32,Argentina,57,61,58,81,80,0,substitute,30,8000000,Manchester City
+L. Muriel,65000,29,Colombia,79,69,84,24,22,0,substitute,9,12500000,Atalanta
+Danilo,73000,28,Brazil,70,74,75,79,79,0,defender,13,11000000,Juventus
+Vitolo,55000,30,Spain,76,76,79,21,23,0,substitute,20,12000000,Atletico Madrid
+alvaro,40000,30,Spain,33,57,58,80,81,0,defender,3,10000000,Marseille
+T. Stepanenko,500,30,Ukraine,61,71,68,79,77,0,midfielder,6,10500000,Shakhtar Donetsk
+E. Forsberg,57000,28,Sweden,71,81,81,25,16,0,substitute,10,12500000,RB Leipzig
+D. Benedetto,48000,30,Argentina,80,67,75,25,25,0,attacker,9,12000000,Marseille
+H. Traore,49000,28,Mali,54,72,76,77,75,0,defender,27,11000000,Rennes
+M. Marega,19000,29,Mali,79,62,65,34,28,0,attacker,11,12500000,Porto
+Junior Moraes,500,33,Ukraine,80,57,77,13,13,0,attacker,10,8000000,Shakhtar Donetsk
+Trincao,105000,20,Portugal,73,71,83,34,32,0,substitute,14,20000000,Barcelona
+I. Konate,33000,21,France,34,57,68,85,79,0,substitute,6,15500000,RB Leipzig
+Antony,15000,20,Brazil,70,71,84,37,21,0,midfielder,39,17000000,Ajax
+L. Daaz,14000,23,Colombia,76,68,79,36,34,0,midfielder,7,15500000,Porto
+T. Abraham,77000,22,England,78,59,72,23,15,0,substitute,9,15000000,Chelsea
+L. Martanez,15000,22,Argentina,58,72,75,81,76,0,midfielder,21,13500000,Ajax
+R. Loftus-Cheek,70000,24,England,67,76,80,67,61,0,midfielder,12,14000000,Chelsea
+N. Elvedi,30000,23,Switzerland,34,64,68,83,77,0,defender,30,13000000,Borussia Mionchengladbach
+B. Embolo,37000,23,Switzerland,76,70,74,42,38,0,substitute,36,14500000,Borussia Mionchengladbach
+M. Akanji,42000,24,Switzerland,47,68,71,83,78,0,defender,16,13000000,Borussia Dortmund
+M. Caldara,48000,26,Italy,34,46,62,84,80,0,defender,3,12000000,Atalanta
+S. Sensi,73000,24,Italy,59,80,80,73,73,0,substitute,12,13500000,Inter Milan
+Y. En-Nesyri,27000,23,Morocco,77,54,77,31,27,0,substitute,15,14000000,Sevilla
+S. Gigot,500,26,France,38,63,60,79,77,0,defender,2,12000000,Spartak Moscow
+D. cÜaleta-Car,31000,23,Croatia,40,60,62,79,75,0,defender,15,12000000,Marseille
+A. Diallo,55000,24,France,38,71,76,78,81,0,substitute,22,12000000,Paris Saint-Germain
+R. Barkley,80000,26,England,74,78,80,60,51,0,midfielder,8,12500000,Chelsea
+L. Karius,59000,27,Germany,0,0,0,11,13,76,goalkeeper,22,9000000,Liverpool
+M. Niang,49000,25,Senegal,79,68,79,24,20,0,substitute,11,13000000,Rennes
+R. Gagliardini,77000,26,Italy,63,71,74,79,77,0,substitute,5,11500000,Inter Milan
+R. Zobnin,500,26,Russia,62,76,77,76,74,0,midfielder,47,11500000,Spartak Moscow
+Y. Poulsen,54000,26,Denmark,71,67,74,58,32,0,attacker,9,12500000,RB Leipzig
+Jose Sa,500,27,Portugal,0,0,0,19,15,76,goalkeeper,1,8500000,Olympiacos
+B. Bourigeaud,47000,26,France,74,79,78,69,65,0,midfielder,14,12500000,Rennes
+J. Amavi,37000,26,France,65,71,76,77,75,0,defender,18,11000000,Marseille
+H. Hateboer,52000,26,Netherlands,64,72,77,78,77,0,midfielder,33,12000000,Atalanta
+F. Cervi,16000,26,Argentina,65,70,84,59,55,0,substitute,11,12000000,Benfica
+B. Verbicç,500,26,Slovenia,72,72,80,34,33,0,midfielder,7,12000000,Dynamo Kyiv
+ÔøΩ. Radu,51000,33,Romania,64,65,68,86,84,0,defender,26,4900000,Lazio
+V. Moses,84000,29,Nigeria,69,74,81,74,71,0,substitute,31,10000000,Chelsea
+A. Candreva,84000,33,Italy,78,77,79,63,53,0,substitute,87,6500000,Inter Milan
+F. Caicedo,60000,31,Ecuador,76,71,75,44,47,0,substitute,20,9500000,Lazio
+Guilherme,500,34,Russia,0,0,0,16,18,78,goalkeeper,1,4500000,Lokomotiv Moscow
+S. Lulic,56000,34,Bosnia Herzegovina,72,76,78,78,76,0,midfielder,19,5000000,Lazio
+M. Hitz,39000,32,Switzerland,0,0,0,15,14,79,goalkeeper,35,6500000,Borussia Dortmund
+A. Kokorin,500,29,Russia,77,72,81,42,44,0,substitute,9,10500000,Spartak Moscow
+Y. El Arabi,500,33,Morocco,81,67,78,30,42,0,attacker,11,6500000,Olympiacos
+Sergio Oliveira,16000,28,Portugal,77,82,75,67,48,0,substitute,27,10500000,Porto
+P. Herrmann,44000,29,Germany,75,75,78,26,54,0,midfielder,7,10000000,Borussia Mionchengladbach
+H. Vanaken,28000,27,Belgium,78,80,76,56,51,0,midfielder,20,11000000,Club Brugge
+R. Freuler,54000,28,Switzerland,69,75,76,76,71,0,midfielder,11,10500000,Atalanta
+C. Kramer,37000,29,Germany,49,69,72,77,72,0,substitute,6,9000000,Borussia Mionchengladbach
+M. De Sciglio,64000,27,Italy,46,69,75,78,78,0,substitute,2,9000000,Juventus
+H. Sakai,37000,30,Japan,54,68,67,77,80,0,defender,2,8000000,Marseille
+M. Uribe,16000,29,Colombia,74,74,76,76,69,0,midfielder,16,10000000,Porto
+M. Greenwood,33000,18,England,78,71,78,39,33,0,midfielder,11,14500000,Manchester United
+D. Kulusevski,54000,20,Sweden,69,75,78,64,58,0,substitute,44,14500000,Juventus
+R. James,49000,20,England,57,72,75,77,73,0,defender,24,12500000,Chelsea
+Luiz Felipe,41000,23,Brazil,29,61,68,79,79,0,defender,3,12000000,Lazio
+K. Diatta,20000,21,Senegal,70,67,81,32,50,0,midfielder,11,13000000,Club Brugge
+Ferro,11000,23,Portugal,43,54,59,80,74,0,substitute,97,11500000,Benfica
+H. Wilson,66000,23,Wales,78,75,77,48,42,0,substitute,59,12000000,Liverpool
+D. James,81000,22,Wales,70,69,77,39,34,0,substitute,21,12000000,Manchester United
+N. Mazraoui,14000,22,Morocco,59,72,80,72,72,0,defender,12,11000000,Ajax
+aliver Torres,26000,25,Spain,67,78,82,63,58,0,substitute,21,11500000,Sevilla
+D. Origi,79000,25,Belgium,76,67,77,24,18,0,substitute,27,12000000,Liverpool
+T. Kehrer,52000,23,Germany,44,65,67,79,81,0,substitute,4,10500000,Paris Saint-Germain
+Hwang Hee Chan,45000,24,Korea Republic,75,71,79,23,24,0,attacker,11,12000000,RB Leipzig
+M. PaSalic,47000,25,Croatia,71,75,76,72,64,0,substitute,88,11500000,Atalanta
+G. Dzhikiya,500,26,Russia,53,61,64,77,85,0,defender,14,10000000,Spartak Moscow
+F. Maouassa,29000,21,France,68,71,75,74,75,0,defender,17,10500000,Rennes
+Claudio Ramos,11000,28,Portugal,0,0,0,17,13,73,goalkeeper,14,8000000,Porto
+G. Escalante,48000,27,Argentina,67,71,69,76,77,0,substitute,7,9500000,Lazio
+T. Minamino,79000,25,Japan,73,69,82,30,26,0,substitute,18,11000000,Liverpool
+Sergio Rico,49000,26,Spain,0,0,0,11,11,74,goalkeeper,16,7500000,Paris Saint-Germain
+Clinton Mata,24000,27,Angola,61,70,77,78,78,0,defender,77,9500000,Club Brugge
+Sergi Gomez,26000,28,Spain,40,64,61,80,76,0,substitute,3,8500000,Sevilla
+K. Fortounis,500,27,Greece,74,77,80,35,38,0,substitute,7,10000000,Olympiacos
+Bastos,50000,28,Angola,37,50,65,80,77,0,substitute,15,8500000,Lazio
+Mariano,125000,26,Dominican Republic,80,61,73,40,34,0,substitute,24,10500000,Real Madrid
+S. Nakajima,14000,25,Japan,71,71,83,41,36,0,substitute,10,10500000,Porto
+A. Young,79000,34,England,67,74,77,75,73,0,midfielder,15,4500000,Inter Milan
+R. Vormer,26000,32,Netherlands,74,79,70,75,70,0,midfielder,25,6500000,Club Brugge
+A. Taarabt,15000,31,Morocco,69,78,84,62,57,0,substitute,49,7500000,Benfica
+D. Da Silva,40000,32,France,37,57,54,78,77,0,defender,3,5500000,Rennes
+O. Ighalo,100000,31,Nigeria,78,65,77,45,41,0,substitute,25,8000000,Manchester United
+N. Kalinic,51000,32,Croatia,76,64,73,32,28,0,substitute,25,7000000,Atletico Madrid
+Rafael Toloi,47000,29,Brazil,47,58,62,82,80,0,defender,2,7500000,Atalanta
+K. Strootman,34000,30,Netherlands,70,75,71,75,70,0,substitute,6,7500000,Marseille
+"D. D""Ambrosio",72000,31,Italy,56,67,71,79,78,0,substitute,33,6500000,Inter Milan
+L. Kurzawa,60000,27,France,65,73,76,76,77,0,substitute,20,8000000,Paris Saint-Germain
+Aleix Vidal,27000,30,Spain,67,72,78,70,74,0,substitute,27,8500000,Sevilla
+Ze Luas,16000,29,Cape Verde,75,59,75,19,24,0,substitute,20,9000000,Porto
+Roque Mesa,27000,31,Spain,64,74,77,78,76,0,substitute,26,7500000,Sevilla
+B. Sarr,36000,28,France,70,74,76,71,72,0,substitute,17,7500000,Marseille
+F. Vazquez,27000,31,Argentina,78,79,79,59,48,0,substitute,22,7500000,Sevilla
+J. Lingard,93000,27,England,74,74,78,57,49,0,substitute,14,9500000,Manchester United
+A. Samaris,13000,31,Greece,66,70,70,81,75,0,substitute,22,6500000,Benfica
+J. Hofmann,36000,27,Germany,69,76,78,44,40,0,substitute,23,9500000,Borussia Mionchengladbach
+A. MaruSic,52000,27,Montenegro,71,72,76,72,73,0,substitute,77,9500000,Lazio
+Soares,16000,29,Brazil,73,59,75,45,35,0,substitute,29,9000000,Porto
+M. Taremi,16000,27,Iran,76,66,81,37,19,0,attacker,24,9500000,Porto
+Ansu Fati,24000,17,Spain,71,68,79,32,28,0,attacker,22,15000000,Barcelona
+E. Camavinga,5000,17,France,62,74,77,78,76,0,midfielder,10,12000000,Rennes
+Florentino,9000,20,Portugal,44,62,68,78,77,0,substitute,61,11500000,Benfica
+F. Tomori,55000,22,England,37,58,66,79,74,0,substitute,14,11000000,Chelsea
+T. Adams,29000,21,United States,48,67,72,76,69,0,substitute,14,11000000,RB Leipzig
+Diogo Dalot,56000,21,Portugal,60,70,76,72,68,0,substitute,20,11000000,Manchester United
+M. Demiral,48000,22,Turkey,39,49,59,79,78,0,substitute,28,11000000,Juventus
+P. Daka,22000,21,Zambia,76,58,76,24,16,0,attacker,20,12000000,Red Bull Salzburg
+V. Mykolenko,500,21,Ukraine,44,62,57,73,76,0,defender,16,10000000,Dynamo Kyiv
+L. Waldschmidt,13000,24,Germany,79,69,75,19,18,0,substitute,10,11000000,Benfica
+Carlos Fernandez,24000,24,Spain,78,63,77,21,22,0,substitute,24,11000000,Sevilla
+A. Miranchuk,500,24,Russia,73,74,77,30,31,0,midfielder,11,11000000,Lokomotiv Moscow
+E. alvarez,13000,22,Mexico,53,66,68,76,77,0,substitute,4,10000000,Ajax
+E. Dennis,24000,22,Nigeria,73,62,78,45,27,0,substitute,42,11000000,Club Brugge
+Borja Mayoral,105000,23,Spain,76,69,77,29,24,0,substitute,16,10500000,Real Madrid
+Z. Steffen,64000,25,United States,0,0,0,12,12,71,goalkeeper,13,8000000,Manchester City
+M. Terrier,39000,23,France,75,73,75,31,34,0,attacker,21,10500000,Rennes
+M. Dahoud,41000,24,Germany,66,73,82,58,52,0,substitute,8,10000000,Borussia Dortmund
+K. Tsimikas,55000,24,Greece,58,70,73,73,71,0,substitute,21,9000000,Liverpool
+Chiquinho,12000,24,Portugal,70,77,80,58,51,0,substitute,19,10500000,Benfica
+B. Henrichs,34000,23,Germany,53,71,75,74,74,0,substitute,39,9000000,RB Leipzig
+J. Gnagnon,20000,23,France,39,57,61,78,75,0,substitute,4,9000000,Sevilla
+T. Kedziora,500,26,Poland,45,66,64,76,76,0,defender,94,8500000,Dynamo Kyiv
+I. Amadou,23000,27,France,55,65,71,79,70,0,substitute,30,8500000,Sevilla
+A. Selikhov,500,26,Russia,0,0,0,18,18,75,goalkeeper,57,7000000,Spartak Moscow
+V. Muriqi,53000,26,Kosovo,76,55,68,25,22,0,substitute,94,9500000,Lazio
+M. Wolf,45000,25,Germany,70,72,75,67,67,0,substitute,27,9500000,Borussia Dortmund
+B. Djimsiti,42000,27,Albania,39,59,48,79,78,0,defender,19,8000000,Atalanta
+B. Mechele,22000,27,Belgium,35,47,57,81,79,0,defender,44,8000000,Club Brugge
+E. Balanta,22000,27,Colombia,41,63,71,74,72,0,substitute,3,8000000,Club Brugge
+E. Sviatchenko,26000,28,Denmark,51,61,59,76,72,0,defender,28,7500000,Midtjylland
+C. Piccini,42000,27,Italy,42,64,70,78,76,0,substitute,21,7500000,Atalanta
+J. Lukaku,47000,25,Belgium,61,70,80,74,72,0,substitute,5,9000000,Lazio
+Y. Bounou,20000,29,Morocco,0,0,0,18,15,75,goalkeeper,13,6000000,Sevilla
+S. Deli,24000,28,Ivory Coast,46,53,67,78,77,0,defender,17,7500000,Club Brugge
+A. Pyatov,500,36,Ukraine,0,0,0,9,10,80,goalkeeper,30,1300000,Shakhtar Donetsk
+Z. Junuzovic,27000,32,Austria,73,77,81,62,61,0,substitute,16,6000000,Red Bull Salzburg
+K. Asamoah,74000,31,Ghana,68,76,79,80,80,0,substitute,18,7000000,Inter Milan
+F. Smolov,500,30,Russia,75,71,76,28,24,0,attacker,9,7500000,Lokomotiv Moscow
+A. Dzagoev,500,30,Russia,71,74,76,71,70,0,substitute,10,7000000,PFC CSKA Moscow
+M. Braithwaite,125000,29,Denmark,75,70,77,30,26,0,substitute,19,7500000,Barcelona
+Adrian,52000,33,Spain,0,0,0,19,14,72,goalkeeper,13,4200000,Liverpool
+F. Tait,41000,27,France,70,74,79,37,34,0,substitute,20,8000000,Rennes
+M. Sportiello,36000,28,Italy,0,0,0,17,13,76,goalkeeper,57,5500000,Atalanta
+J. Palomino,42000,30,Argentina,32,55,58,78,78,0,substitute,6,6000000,Atalanta
+Dyego Sousa,15000,30,Portugal,77,61,74,22,27,0,substitute,20,7500000,Benfica
+Riqui Puig,77000,20,Spain,59,75,81,61,53,0,substitute,28,12500000,Barcelona
+D. Szoboszlai,15000,19,Hungary,75,76,78,38,26,0,midfielder,14,11500000,Red Bull Salzburg
+A. Lunin,50000,21,Ukraine,0,0,0,13,11,75,goalkeeper,29,9500000,Real Madrid
+ascar,21000,22,Spain,73,74,78,47,43,0,substitute,14,11500000,Sevilla
+J. Todibo,68000,20,France,43,61,64,80,71,0,substitute,6,10500000,Barcelona
+Tete,500,20,Brazil,67,69,79,25,27,0,substitute,14,11500000,Shakhtar Donetsk
+S. Dest,7000,19,United States,58,71,79,70,68,0,substitute,28,10000000,Ajax
+A. Nubel,34000,23,Germany,0,0,0,14,13,76,goalkeeper,35,8500000,Bayern Munich
+I. Radu,43000,23,Romania,0,0,0,19,15,75,goalkeeper,97,8500000,Inter Milan
+B. Williams,40000,19,England,57,64,73,73,74,0,substitute,33,9500000,Manchester United
+N. Perez,27000,20,Argentina,25,46,44,79,77,0,substitute,26,10000000,Atletico Madrid
+M. Kudus,9000,19,Ghana,70,67,79,55,46,0,substitute,20,10500000,Ajax
+Ayrton,500,23,Brazil,55,65,76,70,73,0,midfielder,6,9000000,Spartak Moscow
+W. McKennie,43000,21,United States,64,69,74,76,73,0,midfielder,14,10000000,Juventus
+P. Schuurs,10000,20,Netherlands,64,70,67,77,74,0,defender,3,9500000,Ajax
+Pedrinho,11000,22,Brazil,68,71,80,36,20,0,substitute,62,10500000,Benfica
+A. Bastoni,46000,21,Italy,33,52,54,78,76,0,substitute,95,9000000,Inter Milan
+D. Barinov,500,23,Russia,59,63,66,76,73,0,midfielder,6,8500000,Lokomotiv Moscow
+Diogo Gonaalves,11000,23,Portugal,72,67,79,33,28,0,substitute,35,9500000,Benfica
+M. Camara,500,23,Guinea,64,65,71,74,72,0,midfielder,4,8500000,Olympiacos
+C. Ejuke,500,22,Nigeria,69,61,79,37,31,0,substitute,11,9500000,PFC CSKA Moscow
+M. Grujic,58000,24,Serbia,71,71,77,70,70,0,substitute,16,9000000,Liverpool
+P. Cisse,500,24,Senegal,32,43,44,75,73,0,substitute,66,8000000,Olympiacos
+Z. Bakaev,500,24,Russia,70,71,77,33,29,0,midfielder,10,9000000,Spartak Moscow
+C. Dagba,39000,21,France,50,70,77,72,73,0,substitute,31,8000000,Paris Saint-Germain
+M. Sarr,44000,21,France,52,68,65,77,75,0,substitute,27,8000000,Chelsea
+Andreas Pereira,72000,24,Brazil,72,77,77,67,64,0,substitute,15,8500000,Manchester United
+A. Baba,58000,25,Ghana,50,66,75,74,74,0,substitute,34,7500000,Chelsea
+C. Mbemba,11000,25,DR Congo,53,55,64,78,76,0,defender,19,7500000,Porto
+P. Sisto,27000,25,Denmark,73,72,81,55,48,0,substitute,7,8500000,Midtjylland
+Ruben Semedo,500,26,Portugal,52,54,64,77,74,0,defender,3,7500000,Olympiacos
+M. Lopez,29000,22,France,67,77,78,66,59,0,substitute,27,8500000,Marseille
+F. Kamano,500,24,Guinea,73,67,77,35,30,0,substitute,25,8500000,Lokomotiv Moscow
+Wilson Manafa,11000,25,Portugal,60,67,76,71,73,0,substitute,18,7500000,Porto
+Helton Leite,10000,29,Brazil,0,0,0,9,8,73,goalkeeper,18,5500000,Benfica
+A. Hunou,42000,26,France,76,70,76,58,56,0,substitute,23,8000000,Rennes
+M. Rits,23000,26,Belgium,67,73,71,74,64,0,midfielder,26,7500000,Club Brugge
+Z. Labyad,17000,27,Morocco,75,76,79,36,28,0,substitute,19,8000000,Ajax
+M. van Ginkel,67000,27,Netherlands,77,77,75,73,68,0,substitute,35,7500000,Chelsea
+Carraaa,12000,27,Portugal,59,70,73,74,71,0,substitute,21,6500000,Porto
+E. Kilina,51000,25,Turkey,68,72,76,38,36,0,midfielder,54,8000000,Galatasaray
+S. Proto,22000,37,Belgium,0,0,0,11,17,76,goalkeeper,24,675000,Lazio
+J. Hansen,13000,35,Denmark,0,0,0,14,15,76,goalkeeper,1,1800000,Midtjylland
+W. Caballero,32000,38,Argentina,0,0,0,11,12,76,goalkeeper,13,675000,Chelsea
+O. Wendt,30000,34,Sweden,62,74,73,74,73,0,substitute,17,2300000,Borussia Mionchengladbach
+Jardel,12000,34,Brazil,42,52,50,76,72,0,substitute,33,2500000,Benfica
+A. Ulmer,24000,34,Austria,62,71,71,75,73,0,defender,17,2300000,Red Bull Salzburg
+J. Holebas,500,36,Greece,65,74,73,77,75,0,defender,25,1200000,Olympiacos
+I. Traore,32000,32,Guinea,69,73,82,44,40,0,substitute,16,5000000,Borussia Mionchengladbach
+T. Jantschke,30000,30,Germany,41,64,65,78,77,0,substitute,24,5500000,Borussia Mionchengladbach
+S. Corchia,23000,29,France,65,73,74,75,76,0,substitute,2,5500000,Sevilla
+G. Schennikov,500,29,Russia,54,69,70,73,74,0,defender,42,5500000,PFC CSKA Moscow
+V. Ignatiev,500,33,Russia,63,71,70,73,72,0,substitute,20,3000000,Lokomotiv Moscow
+H. Seferovic,15000,28,Switzerland,74,65,70,46,40,0,substitute,14,7000000,Benfica
+Y. Nagatomo,30000,33,Japan,49,65,70,76,73,0,substitute,25,3000000,Marseille
+P. Jones,79000,28,England,50,60,56,76,77,0,substitute,4,6000000,Manchester United
+Y. Konoplyanka,500,30,Ukraine,72,71,78,30,27,0,substitute,15,6500000,Shakhtar Donetsk
+M. Rojo,75000,30,Argentina,59,68,65,78,75,0,substitute,16,5500000,Manchester United
+J. Mojica,40000,27,Colombia,65,71,73,73,74,0,substitute,5,6000000,Atalanta
+S. Sydorchuk,500,29,Ukraine,63,66,68,75,67,0,midfielder,5,5500000,Dynamo Kyiv
+D. Boyko,500,32,Ukraine,0,0,0,12,11,76,goalkeeper,71,4000000,Dynamo Kyiv
+C. Hudson-Odoi,41000,19,England,64,67,81,33,36,0,substitute,20,10000000,Chelsea
+A. Kral,500,22,Czech Republic,68,67,74,76,69,0,midfielder,33,8500000,Spartak Moscow
+A. Lookman,34000,22,England,72,66,81,23,24,0,substitute,17,8500000,RB Leipzig
+M. Wiober,19000,22,Austria,37,62,64,74,77,0,defender,39,7500000,Red Bull Salzburg
+Alex,84000,22,Spain,67,73,74,62,50,0,substitute,29,8000000,Barcelona
+Evander,21000,22,Brazil,69,72,80,58,52,0,midfielder,10,8500000,Midtjylland
+F. Chalov,500,22,Russia,72,67,75,26,23,0,attacker,9,8500000,PFC CSKA Moscow
+A. Haidara,34000,22,Mali,70,72,75,62,61,0,substitute,8,8000000,RB Leipzig
+V. Shepelev,500,23,Ukraine,63,62,70,73,72,0,substitute,8,8000000,Dynamo Kyiv
+S. Lammers,39000,23,Netherlands,75,61,77,21,19,0,substitute,27,8000000,Atalanta
+F. Onyeka,19000,22,Nigeria,58,64,71,73,68,0,midfielder,38,7000000,Midtjylland
+M. Pessina,35000,23,Italy,66,70,74,64,62,0,substitute,40,8000000,Atalanta
+E. Mwepu,21000,22,Zambia,67,71,72,72,67,0,midfielder,45,8000000,Red Bull Salzburg
+M. Burda,500,25,Ukraine,23,43,40,78,71,0,defender,26,7000000,Dynamo Kyiv
+E. Ponce,500,23,Argentina,73,60,74,30,28,0,substitute,19,8000000,Spartak Moscow
+S. Guirassy,34000,24,France,74,61,74,29,34,0,attacker,18,7500000,Rennes
+N. Radonjic,30000,24,Serbia,71,71,75,30,23,0,substitute,7,7500000,Marseille
+Wallace,38000,25,Brazil,28,44,48,77,74,0,substitute,45,6500000,Lazio
+A. Sobolev,500,23,Russia,75,58,71,41,29,0,attacker,7,7500000,Spartak Moscow
+Y. Osorio,11000,26,Venezuela,31,44,50,75,73,0,substitute,30,6500000,Porto
+M. Okugawa,21000,24,Japan,69,68,78,29,24,0,midfielder,37,7500000,Red Bull Salzburg
+R. Durmisi,39000,26,Denmark,61,72,73,72,70,0,substitute,39,6000000,Lazio
+A. Scholz,22000,27,Denmark,50,62,64,74,73,0,defender,14,6000000,Midtjylland
+C. Stankovic,18000,27,Austria,0,0,0,14,15,70,goalkeeper,1,4900000,Red Bull Salzburg
+E. Sobol,21000,25,Ukraine,61,73,73,71,67,0,midfielder,2,7000000,Club Brugge
+Andre Ramalho,23000,28,Brazil,60,66,65,74,71,0,defender,15,5500000,Red Bull Salzburg
+Gilberto,11000,27,Brazil,55,69,71,76,73,0,substitute,23,5500000,Benfica
+E. Akbaba,49000,27,Turkey,72,75,74,55,45,0,midfielder,20,6500000,Galatasaray
+V. Buyalskyi,500,27,Ukraine,67,70,76,74,69,0,midfielder,29,6500000,Dynamo Kyiv
+G. Masouras,500,26,Greece,72,70,73,33,35,0,substitute,19,6500000,Olympiacos
+A. Turan,49000,33,Turkey,72,77,76,63,60,0,midfielder,66,3400000,Galatasaray
+K. Huntelaar,12000,36,Netherlands,79,63,63,33,23,0,substitute,9,2000000,Ajax
+A. Ranocchia,59000,32,Italy,32,57,58,80,76,0,substitute,13,3600000,Inter Milan
+M. Lang,29000,29,Switzerland,68,67,66,77,76,0,substitute,3,4600000,Borussia Mionchengladbach
+M. Rybus,500,30,Poland,69,72,72,73,68,0,defender,31,4400000,Lokomotiv Moscow
+M. Schmelzer,38000,32,Germany,48,66,65,75,74,0,substitute,29,3500000,Borussia Dortmund
+ader,500,32,Portugal,73,60,68,33,28,0,substitute,19,4500000,Lokomotiv Moscow
+V. Aboubakar,14000,28,Cameroon,74,68,77,23,19,0,substitute,9,6000000,Porto
+V. Germain,34000,30,France,75,73,74,21,18,0,substitute,28,5500000,Marseille
+D. Garmash,500,30,Ukraine,72,74,70,73,65,0,substitute,19,5500000,Dynamo Kyiv
+S. Kryvtsov,500,29,Ukraine,44,51,50,77,74,0,defender,4,4700000,Shakhtar Donetsk
+Evanilson,9000,20,Brazil,76,54,70,20,19,0,substitute,71,9000000,Porto
+M. Solomon,500,20,Israel,65,68,77,34,35,0,substitute,19,7500000,Shakhtar Donetsk
+Tomas Tavares,5000,19,Portugal,47,61,74,74,69,0,substitute,84,6500000,Benfica
+Romario Baro,8000,20,Portugal,67,70,74,53,56,0,substitute,8,7000000,Porto
+D. Popov,500,21,Ukraine,38,46,51,75,74,0,substitute,4,6500000,Dynamo Kyiv
+A. Maksimenko,500,22,Russia,0,0,0,12,12,71,goalkeeper,98,5000000,Spartak Moscow
+B. Lednev,500,22,Ukraine,72,72,74,61,58,0,substitute,17,6000000,Dynamo Kyiv
+P. Roberts,71000,23,England,66,69,79,18,19,0,substitute,29,6000000,Manchester City
+A. Tuanzebe,55000,22,England,36,64,70,74,73,0,substitute,38,5500000,Manchester United
+T. Fosu-Mensah,55000,22,Netherlands,60,64,65,73,74,0,substitute,24,5500000,Manchester United
+J. Larsson,500,23,Sweden,74,69,73,15,16,0,attacker,11,5500000,Spartak Moscow
+V. Kovalenko,500,24,Ukraine,71,72,74,59,55,0,substitute,20,5500000,Shakhtar Donetsk
+Aleix Garcaa,65000,23,Spain,68,73,74,63,57,0,substitute,28,5500000,Manchester City
+M. Matvienko,500,24,Ukraine,43,59,59,77,75,0,defender,22,5000000,Shakhtar Donetsk
+C. Romero,29000,22,Argentina,35,43,48,75,75,0,substitute,17,5000000,Atalanta
+J. Augustin,34000,23,France,73,62,79,24,17,0,substitute,37,5500000,RB Leipzig
+R. Kristensen,17000,22,Denmark,56,67,67,66,67,0,defender,43,4900000,Red Bull Salzburg
+L. Benes,24000,22,Slovakia,70,77,75,50,47,0,substitute,22,5500000,Borussia Mionchengladbach
+Papa,500,23,Portugal,64,70,72,65,61,0,substitute,10,5500000,Olympiacos
+S. Schrijvers,19000,23,Belgium,75,74,76,55,54,0,attacker,16,5500000,Club Brugge
+J. Lea Siliki,29000,24,France,64,74,75,70,70,0,substitute,12,5500000,Rennes
+R. Del Castillo,32000,24,France,72,72,79,42,43,0,substitute,22,5500000,Rennes
+Patric,36000,27,Spain,53,66,70,76,74,0,substitute,4,4300000,Lazio
+H. Magnusson,500,27,Iceland,50,66,61,75,72,0,defender,23,4300000,PFC CSKA Moscow
+D. Cataldi,38000,25,Italy,71,76,73,69,68,0,substitute,32,4900000,Lazio
+F. Ricca,17000,25,Uruguay,45,63,68,72,73,0,substitute,18,4400000,Club Brugge
+M. Krmencçak,22000,27,Czech Republic,71,58,70,25,20,0,substitute,9,4700000,Club Brugge
+D. Padelli,44000,34,Italy,0,0,0,12,12,76,goalkeeper,27,1800000,Inter Milan
+T. Sippel,20000,32,Germany,0,0,0,15,12,69,goalkeeper,21,2400000,Borussia Mionchengladbach
+K. Mitroglou,31000,32,Greece,76,65,65,18,10,0,substitute,36,3200000,Marseille
+D. Drinkwater,57000,30,England,66,73,73,71,70,0,substitute,42,3700000,Chelsea
+V. Vasin,500,31,Russia,41,58,45,74,72,0,substitute,5,3000000,PFC CSKA Moscow
+C. Grenier,35000,29,France,71,78,74,59,49,0,substitute,8,3800000,Rennes
+J. Martin,33000,30,France,69,74,72,72,68,0,substitute,28,3700000,Rennes
+Alan Patrick,500,29,Brazil,71,72,76,59,42,0,midfielder,21,3900000,Shakhtar Donetsk
+H. Soudani,500,32,Algeria,74,69,75,37,28,0,substitute,2,3100000,Olympiacos
+Fran Sol,500,28,Spain,74,56,67,25,19,0,substitute,9,4100000,Dynamo Kyiv
+S. ozbayrakli,41000,30,Turkey,60,69,71,70,68,0,substitute,2,3200000,Galatasaray
+Dalbert,60000,26,Brazil,57,68,75,74,72,0,substitute,29,4300000,Inter Milan
+C. de Pena,500,28,Uruguay,61,71,73,26,28,0,substitute,14,4000000,Dynamo Kyiv
+Pedri,10000,17,Spain,61,71,76,55,53,0,substitute,25,6000000,Barcelona
+Doda,500,21,Brazil,55,62,74,68,64,0,defender,98,6500000,Shakhtar Donetsk
+L. Pellegrini,29000,21,Italy,35,62,69,72,69,0,substitute,17,6500000,Juventus
+G. Tsitaishvili,500,19,Ukraine,60,59,81,35,37,0,substitute,11,6500000,Dynamo Kyiv
+Jota,7000,21,Portugal,65,64,78,31,25,0,substitute,73,6000000,Benfica
+Eric Garcaa,32000,19,Spain,34,54,62,74,70,0,substitute,50,5500000,Manchester City
+Marcos Antonio,500,20,Brazil,63,69,73,54,52,0,midfielder,8,6000000,Shakhtar Donetsk
+Nuno Tavares,6000,20,Portugal,52,64,74,72,66,0,substitute,71,5500000,Benfica
+M. Shaparenko,500,21,Ukraine,63,69,72,67,66,0,midfielder,10,5500000,Dynamo Kyiv
+Bruno Fuchs,500,21,Brazil,56,64,67,73,69,0,substitute,3,4900000,PFC CSKA Moscow
+I. Oblyakov,500,21,Russia,67,75,76,54,55,0,midfielder,98,5000000,PFC CSKA Moscow
+H. Wolf,18000,21,Austria,67,67,77,36,35,0,substitute,11,5000000,Borussia Mionchengladbach
+A. Fein,27000,21,Germany,57,68,72,72,68,0,substitute,30,4700000,Bayern Munich
+D. Nuaez,8000,21,Uruguay,73,50,69,22,30,0,substitute,77,5000000,Benfica
+Maycon,500,22,Brazil,67,71,70,67,64,0,substitute,27,4700000,Shakhtar Donetsk
+M. Loum,8000,23,Senegal,53,59,61,72,64,0,substitute,15,4400000,Porto
+J. Onguene,15000,22,Cameroon,30,42,58,73,71,0,substitute,6,4200000,Red Bull Salzburg
+I. Akhmetov,500,22,Russia,58,72,77,62,55,0,substitute,7,4500000,PFC CSKA Moscow
+D. Okereke,17000,22,Nigeria,68,55,75,17,15,0,substitute,21,4400000,Club Brugge
+N. Lang,9000,21,Netherlands,67,67,75,50,49,0,substitute,27,4400000,Ajax
+J. Gelin,23000,23,France,36,59,62,75,71,0,substitute,26,3800000,Rennes
+R. Zhemaletdinov,500,23,Russia,66,63,74,33,32,0,midfielder,17,4300000,Lokomotiv Moscow
+S. Janko,8000,24,Switzerland,49,60,66,66,68,0,substitute,45,3700000,Porto
+A. Vallci,15000,24,Austria,49,60,55,72,72,0,substitute,5,3700000,Red Bull Salzburg
+G. Bushchan,500,26,Ukraine,0,0,0,10,11,69,goalkeeper,1,3000000,Dynamo Kyiv
+O. aaglayan,35000,24,Turkey,62,66,75,24,22,0,substitute,77,4100000,Galatasaray
+A. Mabil,19000,24,Australia,62,64,73,33,20,0,attacker,11,3900000,Midtjylland
+M. Mitrovic,16000,26,Croatia,50,57,59,76,71,0,substitute,15,3400000,Club Brugge
+A. Shabanov,500,28,Ukraine,24,48,37,77,73,0,defender,30,3100000,Dynamo Kyiv
+A. Bouchalakis,500,27,Greece,67,72,68,70,61,0,midfielder,5,3500000,Olympiacos
+A. Tashaev,500,26,Russia,61,71,71,34,41,0,substitute,13,3700000,Spartak Moscow
+M. Stekelenburg,5000,37,Netherlands,0,0,0,15,14,73,goalkeeper,1,325000,Ajax
+Y. Pele,12000,37,France,0,0,0,13,12,71,goalkeeper,16,325000,Marseille
+R. Salin,14000,35,France,0,0,0,13,16,72,goalkeeper,1,850000,Rennes
+P. Tschauner,23000,34,Germany,0,0,0,12,15,71,goalkeeper,13,1400000,RB Leipzig
+C. Pinsoglio,32000,30,Italy,0,0,0,12,13,74,goalkeeper,31,2100000,Juventus
+O. Bayram,42000,28,Turkey,68,73,75,65,63,0,substitute,19,3100000,Galatasaray
+P. Farkas,18000,27,Austria,60,65,66,68,70,0,substitute,25,2800000,Red Bull Salzburg
+Jese,48000,27,Spain,68,69,77,23,12,0,substitute,35,3300000,Paris Saint-Germain
+O. Karavaev,500,28,Ukraine,54,69,71,59,63,0,substitute,20,3100000,Dynamo Kyiv
+R. Gravenberch,4000,18,Netherlands,65,71,76,57,49,0,midfielder,8,4800000,Ajax
+Reinier,13000,18,Brazil,68,64,75,47,40,0,substitute,20,4900000,Borussia Dortmund
+B. Gilmour,25000,19,Scotland,54,70,73,68,57,0,substitute,23,5000000,Chelsea
+T. Kouassi,10000,18,France,37,55,62,73,68,0,substitute,23,4600000,Bayern Munich
+Fernando,500,21,Brazil,61,60,77,27,29,0,substitute,99,4200000,Shakhtar Donetsk
+Diogo Leite,6000,21,Portugal,38,45,55,74,70,0,substitute,4,3800000,Porto
+M. Cuisance,27000,20,France,67,77,75,61,55,0,substitute,11,4000000,Bayern Munich
+N. Okafor,13000,20,Switzerland,68,65,74,25,20,0,substitute,77,4100000,Red Bull Salzburg
+S. Koita,14000,20,Mali,72,57,75,29,27,0,attacker,7,4100000,Red Bull Salzburg
+B. Sutalo,19000,20,Croatia,31,51,54,74,67,0,substitute,4,3800000,Atalanta
+A. Sigurasson,500,21,Iceland,68,67,73,39,32,0,substitute,17,3900000,PFC CSKA Moscow
+A. Bernede,13000,21,France,58,67,73,71,64,0,midfielder,28,3600000,Red Bull Salzburg
+B. Kraev,15000,23,Bulgaria,63,66,74,46,39,0,substitute,15,3500000,Midtjylland
+N. Rusyn,500,21,Ukraine,71,47,66,16,16,0,substitute,70,3600000,Dynamo Kyiv
+N. Rasskazov,500,22,Russia,47,64,71,74,71,0,midfielder,92,3100000,Spartak Moscow
+J. Andersson,14000,23,Sweden,47,65,70,67,65,0,defender,6,3000000,Midtjylland
+K. Kuchaev,500,22,Russia,58,67,70,59,53,0,midfielder,20,3300000,PFC CSKA Moscow
+D. Vavro,24000,24,Slovakia,49,51,56,70,69,0,substitute,93,3000000,Lazio
+M. Ashimeru,15000,22,Ghana,64,68,74,63,58,0,substitute,4,3300000,Red Bull Salzburg
+M. Miazga,35000,24,United States,26,45,57,72,73,0,midfielder,38,2900000,Chelsea
+E. Horvath,11000,25,United States,0,0,0,9,8,62,goalkeeper,22,2300000,Club Brugge
+E. TaSdemir,28000,24,Turkey,59,65,73,71,68,0,substitute,55,2700000,Galatasaray
+I. Kutepov,500,26,Russia,47,55,46,73,72,0,substitute,29,2600000,Spartak Moscow
+D. Zhivoglyadov,500,26,Russia,51,61,69,68,70,0,defender,2,2600000,Lokomotiv Moscow
+J. Akpa Akpro,31000,27,Ivory Coast,67,70,71,70,69,0,substitute,37,2700000,Lazio
+A. Hassan,500,27,Egypt,73,52,65,23,25,0,substitute,9,2800000,Olympiacos
+A. Walke,8000,37,Germany,0,0,0,13,22,69,goalkeeper,33,240000,Red Bull Salzburg
+K. Nababkin,500,33,Russia,60,62,60,75,74,0,substitute,14,1100000,PFC CSKA Moscow
+A. Eschenko,500,36,Russia,57,66,65,72,71,0,substitute,38,425000,Spartak Moscow
+S. Rajkovic,500,31,Serbia,38,51,52,68,69,0,substitute,41,1800000,Lokomotiv Moscow
+Dentinho,500,31,Brazil,67,67,74,46,42,0,substitute,9,2100000,Shakhtar Donetsk
+R. Mirzov,500,27,Russia,64,65,76,47,61,0,substitute,77,2500000,Spartak Moscow
+R. Brewster,32000,20,England,71,55,72,18,17,0,substitute,24,3900000,Liverpool
+P. Gueye,13000,21,France,45,61,66,70,65,0,substitute,22,3700000,Marseille
+V. Supryaga,500,20,Ukraine,70,46,72,16,14,0,attacker,89,3900000,Dynamo Kyiv
+L. Reis,44000,20,Netherlands,59,64,70,70,62,0,substitute,46,3400000,Barcelona
+A. Gaich,500,21,Argentina,69,55,66,26,28,0,substitute,21,3500000,PFC CSKA Moscow
+Diogo Costa,4000,20,Portugal,0,0,0,13,11,71,goalkeeper,31,2600000,Porto
+C. De Ketelaere,9000,19,Belgium,62,72,73,57,48,0,substitute,90,3100000,Club Brugge
+Manu Sanchez,12000,19,Spain,40,59,66,70,69,0,substitute,35,2800000,Atletico Madrid
+T. Adarabioyo,40000,22,England,31,55,55,70,69,0,substitute,24,2800000,Manchester City
+Alex Pozo,9000,21,Spain,69,67,74,70,62,0,substitute,17,2800000,Sevilla
+Miranda,39000,20,Spain,40,60,66,69,68,0,substitute,27,2800000,Barcelona
+M. Camara,10000,20,Mali,54,64,73,71,68,0,substitute,19,2800000,Red Bull Salzburg
+Diogo Queiros,5000,21,Portugal,36,43,58,72,70,0,substitute,58,2600000,Porto
+K. Bistrovic,500,22,Croatia,63,69,68,72,71,0,substitute,25,2600000,PFC CSKA Moscow
+M. Duelund,500,23,Denmark,66,68,73,43,38,0,substitute,99,2600000,Dynamo Kyiv
+Matheus Pereira,52000,22,Brazil,59,67,77,40,38,0,substitute,36,2600000,Barcelona
+Juan Soriano,8000,22,Spain,0,0,0,10,14,67,goalkeeper,28,1900000,Sevilla
+L. Randelovic,500,22,Serbia,65,67,70,26,29,0,midfielder,97,2500000,Olympiacos
+D. Cools,12000,24,Belgium,56,65,67,68,70,0,substitute,2,2200000,Midtjylland
+L. cêordevic,500,25,Montenegro,68,62,70,21,17,0,substitute,22,2300000,Lokomotiv Moscow
+N. Haas,22000,24,Switzerland,58,70,72,61,61,0,substitute,42,2200000,Atalanta
+M. Malyshev,500,27,Ukraine,65,66,68,68,63,0,substitute,17,1900000,Shakhtar Donetsk
+D. Khocholava,500,27,Georgia,47,49,56,70,73,0,substitute,5,1900000,Shakhtar Donetsk
+O. Shevchenko,500,28,Ukraine,0,0,0,18,16,71,goalkeeper,1,1600000,Shakhtar Donetsk
+Cafu,500,27,Portugal,69,63,67,69,67,0,substitute,8,1900000,Olympiacos
+L. Grant,23000,37,England,0,0,0,13,19,67,goalkeeper,13,180000,Manchester United
+A. Rebrov,500,36,Russia,0,0,0,15,12,74,goalkeeper,32,300000,Spartak Moscow
+S. Carson,37000,34,England,0,0,0,15,20,71,goalkeeper,33,775000,Manchester City
+A. Kravets,500,31,Ukraine,70,57,62,32,34,0,substitute,21,1600000,Dynamo Kyiv
+Fernando Andrade,7000,27,Brazil,71,65,67,20,18,0,substitute,60,1900000,Porto
+J. Bellingham,3000,17,England,65,64,73,67,51,0,midfielder,22,2100000,Borussia Dortmund
+K. Adeyemi,5000,18,Germany,68,63,75,19,25,0,substitute,27,2200000,Red Bull Salzburg
+Gustavo Maia,33000,19,Brazil,68,63,72,17,21,0,substitute,37,2300000,Barcelona
+J. Beyer,10000,20,Germany,34,55,62,74,72,0,substitute,15,2100000,Borussia Mionchengladbach
+H. Abe,42000,21,Japan,61,57,75,25,15,0,substitute,32,2000000,Barcelona
+I. Diveev,500,20,Russia,34,57,56,71,70,0,defender,78,1900000,PFC CSKA Moscow
+Mollejo,12000,19,Spain,64,64,69,44,47,0,substitute,27,2000000,Atletico Madrid
+Vitao,500,20,Brazil,33,48,42,71,73,0,substitute,49,1900000,Shakhtar Donetsk
+M. Bakker,19000,20,Netherlands,39,59,65,70,65,0,defender,25,1600000,Paris Saint-Germain
+R. Manaj,49000,23,Albania,68,53,68,14,21,0,substitute,41,1600000,Barcelona
+M. Lovera,500,21,Argentina,59,63,76,25,28,0,substitute,22,1600000,Olympiacos
+A. Dreyer,11000,22,Denmark,66,65,72,36,35,0,midfielder,36,1600000,Midtjylland
+M. Ake,11000,19,France,66,64,73,39,40,0,substitute,23,1600000,Marseille
+P. Sandler,34000,23,Netherlands,39,62,69,74,68,0,substitute,34,1400000,Manchester City
+G. Nyamsi,15000,23,France,33,47,48,67,60,0,substitute,4,1400000,Rennes
+I. Grbic,13000,24,Croatia,0,0,0,11,12,68,goalkeeper,1,1200000,Atletico Madrid
+K. Mohammed,500,24,Ghana,33,56,62,71,70,0,substitute,6,1300000,Dynamo Kyiv
+M. Berisha,12000,22,Germany,68,62,69,24,22,0,substitute,8,1500000,Red Bull Salzburg
+A. Guliev,500,23,Russia,62,69,74,63,67,0,substitute,5,1500000,Spartak Moscow
+B. Zaynutdinov,500,22,Kazakhstan,67,65,68,57,64,0,substitute,19,1400000,PFC CSKA Moscow
+B. Akintola,12000,24,Nigeria,56,58,73,49,47,0,substitute,42,1400000,Midtjylland
+G. Tigiev,500,25,Russia,48,63,68,63,67,0,substitute,17,1200000,Spartak Moscow
+O. Ba,500,24,Senegal,30,42,47,70,66,0,defender,24,1300000,Olympiacos
+M. Lysov,500,22,Russia,44,61,66,68,64,0,substitute,84,1200000,Lokomotiv Moscow
+S. Khaoui,16000,25,Tunisia,64,70,72,32,38,0,substitute,24,1400000,Marseille
+A. Reca,21000,25,Poland,57,63,69,64,62,0,substitute,44,1300000,Atalanta
+A. aalik,24000,26,Turkey,40,53,58,70,69,0,substitute,5,1100000,Galatasaray
+R. Schwartz,14000,30,Denmark,71,59,65,23,25,0,attacker,89,1000000,Midtjylland
+G. Reyna,2000,17,United States,59,64,76,23,24,0,substitute,32,1800000,Borussia Dortmund
+N. Umyarov,500,20,Russia,47,63,68,66,63,0,substitute,54,1900000,Spartak Moscow
+J. Zirkzee,15000,19,Netherlands,64,49,69,14,16,0,substitute,14,1900000,Bayern Munich
+R. Bellanova,12000,20,Italy,31,53,61,70,67,0,substitute,22,1800000,Atalanta
+L. Traore,4000,19,Burkina Faso,68,52,69,22,25,0,substitute,23,1900000,Ajax
+A. Pinamonti,24000,21,Italy,70,45,67,19,19,0,substitute,99,1700000,Inter Milan
+L. Balerdi,9000,21,Argentina,30,52,59,70,66,0,substitute,5,1600000,Marseille
+Javi Hernandez,34000,22,Spain,47,62,66,70,69,0,substitute,33,1600000,Real Madrid
+Hugo Vallejo,32000,20,Spain,65,65,71,36,35,0,substitute,31,1700000,Real Madrid
+Hugo Duro,36000,20,Spain,68,43,70,17,20,0,substitute,32,1600000,Real Madrid
+Marquinhos Cipriano,500,21,Brazil,54,62,70,69,68,0,substitute,28,1500000,Shakhtar Donetsk
+Marvin,36000,20,Spain,61,60,70,21,22,0,substitute,28,1600000,Real Madrid
+S. Kiyine,17000,22,Morocco,57,65,76,67,66,0,substitute,51,1500000,Lazio
+C. Rocchia,11000,22,France,43,57,62,67,68,0,substitute,20,1400000,Marseille
+V. Bondar,500,21,Ukraine,25,38,48,74,70,0,substitute,77,1400000,Shakhtar Donetsk
+F. Passlack,16000,22,Germany,59,66,72,67,64,0,substitute,30,1400000,Borussia Dortmund
+J. Ekkelenkamp,5000,20,Netherlands,65,63,67,62,55,0,substitute,18,1500000,Ajax
+Josep Martanez,11000,22,Spain,0,0,0,13,15,67,goalkeeper,33,1100000,RB Leipzig
+P. Dziczek,15000,22,Poland,47,60,65,63,61,0,substitute,52,1300000,Lazio
+Matheus Fernandes,37000,22,Brazil,58,63,72,71,70,0,substitute,34,1400000,Barcelona
+Murilo,500,23,Brazil,36,49,52,73,69,0,defender,27,1300000,Lokomotiv Moscow
+B. Radunovic,11000,24,Serbia,0,0,0,13,14,69,goalkeeper,45,1000000,Atalanta
+I. Saponjic,17000,22,Serbia,67,45,63,33,24,0,substitute,17,1300000,Atletico Madrid
+N. Phillips,22000,23,England,29,49,44,71,70,0,substitute,47,1100000,Liverpool
+H. Cuypers,500,23,Belgium,69,60,64,18,13,0,substitute,20,1200000,Olympiacos
+Gerson Rodrigues,500,25,Luxembourg,64,57,64,46,31,0,substitute,22,1100000,Dynamo Kyiv
+B. Allain,500,28,France,0,0,0,15,12,65,goalkeeper,16,775000,Olympiacos
+Bruno Felipe,500,26,Brazil,62,63,70,19,25,0,substitute,18,1100000,Olympiacos
+A. Papadopoulos,500,35,Greece,52,56,56,70,66,0,substitute,34,275000,Olympiacos
+F. ozturk,16000,33,Turkey,0,0,0,23,19,69,goalkeeper,99,475000,Galatasaray
+A. Kochenkov,500,33,Russia,0,0,0,14,16,67,goalkeeper,77,475000,Lokomotiv Moscow
+N. Williams,11000,19,Wales,36,60,68,66,63,0,substitute,76,1500000,Liverpool
+E. Salcedo,11000,18,Italy,63,57,73,18,20,0,substitute,19,1600000,Inter Milan
+K. Scherpen,3000,20,Netherlands,0,0,0,11,10,66,goalkeeper,16,1400000,Ajax
+O. Kossounou,4000,19,Ivory Coast,28,55,65,68,67,0,substitute,5,1500000,Club Brugge
+R. Araujo,24000,21,Uruguay,30,50,48,70,63,0,substitute,33,1600000,Barcelona
+M. Svilar,2000,20,Belgium,0,0,0,21,18,64,goalkeeper,1,1100000,Benfica
+J. Cajuste,6000,20,Sweden,54,62,67,67,63,0,substitute,40,1100000,Midtjylland
+K. Akturkoglu,14000,21,Turkey,62,59,73,41,42,0,substitute,32,1200000,Galatasaray
+L. Perrin,8000,21,France,30,49,51,71,67,0,substitute,32,1100000,Marseille
+M. Anderson,9000,22,Iceland,57,58,69,41,40,0,attacker,34,1100000,Midtjylland
+Y. Gboho,8000,19,France,62,63,73,36,43,0,substitute,19,1100000,Rennes
+V. Lystsov,500,24,Russia,46,49,57,65,63,0,substitute,4,975000,Lokomotiv Moscow
+N. Aguerd,11000,24,Morocco,45,52,57,69,67,0,defender,6,950000,Rennes
+O. Andrievskyi,500,26,Ukraine,51,61,50,66,68,0,substitute,18,900000,Dynamo Kyiv
+M. James,8000,26,Canada,41,51,52,66,62,0,substitute,25,850000,Midtjylland
+M. Grun,8000,33,Germany,0,0,0,14,13,67,goalkeeper,31,400000,Borussia Mionchengladbach
+S. Esposito,5000,17,Italy,66,61,67,41,29,0,substitute,30,1300000,Inter Milan
+Felix Correia,12000,19,Portugal,58,57,73,38,32,0,substitute,45,1400000,Juventus
+E. Laird,7000,18,England,55,58,67,64,63,0,substitute,41,1200000,Manchester United
+Riquelme,9000,20,Spain,62,57,70,39,38,0,substitute,3,1400000,Atletico Madrid
+Mateu Morey,9000,20,Spain,45,62,73,62,64,0,substitute,2,1300000,Borussia Dortmund
+M. Carnesecchi,6000,20,Italy,0,0,0,13,12,66,goalkeeper,73,1200000,Atalanta
+B. Woodburn,15000,20,Wales,62,59,71,15,21,0,substitute,58,1400000,Liverpool
+C. Capone,11000,21,Italy,59,60,73,14,17,0,substitute,50,1400000,Atalanta
+B. Soppy,3000,18,France,39,56,64,64,62,0,substitute,34,1200000,Rennes
+O. Solet,5000,20,France,39,53,61,67,62,0,substitute,22,1300000,Red Bull Salzburg
+J. Adamu,5000,19,Austria,66,49,65,13,12,0,substitute,9,1400000,Red Bull Salzburg
+P. Maslov,500,20,Russia,33,56,59,64,61,0,defender,39,1100000,Spartak Moscow
+M. Smith,20000,20,Wales,53,64,69,58,57,0,substitute,45,1100000,Manchester City
+D. Kotarski,2000,20,Croatia,0,0,0,14,10,68,goalkeeper,33,925000,Ajax
+V. Lisakovich,500,22,Belarus,66,57,67,19,20,0,substitute,88,1100000,Lokomotiv Moscow
+San Roman,8000,22,Spain,0,0,0,12,11,64,goalkeeper,30,775000,Atletico Madrid
+O. Tymchyk,500,23,Ukraine,24,48,48,63,64,0,substitute,24,850000,Dynamo Kyiv
+L. Clemenza,15000,22,Italy,57,68,74,28,28,0,substitute,56,900000,Juventus
+R. Nicolaisen,6000,23,Denmark,41,51,56,67,63,0,substitute,20,825000,Midtjylland
+Carlos Miguel,5000,23,Brazil,0,0,0,10,14,64,goalkeeper,31,675000,Red Bull Salzburg
+Paulinho,7000,25,Brazil,60,60,66,63,60,0,defender,29,750000,Midtjylland
+S. Kaba,8000,25,Guinea,65,54,64,26,24,0,substitute,9,850000,Midtjylland
+S. Bolbat,500,27,Ukraine,59,68,73,62,55,0,substitute,50,650000,Shakhtar Donetsk
+M. Andersen,6000,31,Denmark,0,0,0,17,17,67,goalkeeper,31,425000,Midtjylland
+D. Di Gennaro,14000,32,Italy,63,69,67,60,47,0,substitute,40,475000,Lazio
+L. Vibe,8000,33,Denmark,67,60,67,36,23,0,substitute,26,400000,Midtjylland
+X. Simons,2000,17,Netherlands,54,59,69,64,52,0,substitute,38,1100000,Paris Saint-Germain
+H. Elliott,4000,17,England,53,59,71,29,21,0,substitute,67,1100000,Liverpool
+Bryan Gil,4000,19,Spain,62,59,71,29,22,0,substitute,29,1200000,Sevilla
+N. Armini,6000,19,Italy,38,49,53,70,68,0,substitute,13,1100000,Lazio
+T. Mengi,6000,18,England,39,54,59,64,57,0,substitute,43,1000000,Manchester United
+Y. Badji,3000,18,Senegal,63,52,64,21,18,0,attacker,27,1100000,Club Brugge
+S. van den Berg,5000,18,Netherlands,30,55,63,67,59,0,substitute,72,1000000,Liverpool
+J. Sanabria,8000,20,Uruguay,57,63,68,45,47,0,substitute,44,1200000,Atletico Madrid
+Valera,4000,18,Spain,56,61,67,18,14,0,substitute,48,1100000,Atletico Madrid
+A. Kalimuendo,7000,18,France,66,49,64,21,17,0,substitute,29,1100000,Paris Saint-Germain
+O. Syrota,500,20,Ukraine,22,37,43,65,66,0,substitute,34,1100000,Dynamo Kyiv
+C. Gomes,11000,19,France,54,60,63,66,64,0,substitute,46,950000,Manchester City
+S. Boey,5000,19,France,41,58,65,62,65,0,substitute,2,925000,Rennes
+N. Dyhr,3000,19,Denmark,50,58,62,65,61,0,substitute,44,850000,Midtjylland
+J. Timber,2000,19,Netherlands,40,55,63,65,67,0,substitute,2,875000,Ajax
+A. Poulsen,6000,20,Denmark,44,57,65,64,59,0,substitute,40,850000,Borussia Mionchengladbach
+Ricard,7000,20,Spain,44,49,56,58,62,0,substitute,42,850000,Atletico Madrid
+Javi Daaz,4000,23,Spain,0,0,0,11,14,63,goalkeeper,31,675000,Sevilla
+O. Pikhalyonok,500,23,Ukraine,56,61,64,59,53,0,substitute,76,825000,Shakhtar Donetsk
+D. Rybchinskiy,500,21,Russia,55,65,66,49,59,0,midfielder,94,850000,Lokomotiv Moscow
+H. Rafia,11000,21,Tunisia,65,63,71,33,19,0,substitute,48,850000,Juventus
+I. Shkurin,500,20,Belarus,64,56,62,32,26,0,substitute,99,850000,PFC CSKA Moscow
+D. Peeters,10000,21,Belgium,49,65,53,63,70,0,substitute,40,775000,Juventus
+O. Kocuk,9000,24,Turkey,0,0,0,10,11,62,goalkeeper,34,550000,Galatasaray
+D. Anderson,11000,25,Netherlands,38,55,64,60,62,0,substitute,8,625000,Lazio
+T. Antalyali,14000,25,Turkey,62,65,63,63,57,0,substitute,4,675000,Galatasaray
+C. Jones,9000,19,England,62,63,70,52,47,0,substitute,17,950000,Liverpool
+K. Taylor,1000,18,Netherlands,60,70,66,57,62,0,substitute,25,925000,Ajax
+Y. Akgun,7000,19,Turkey,62,56,67,22,19,0,substitute,35,975000,Galatasaray
+M. Ignatov,500,20,Russia,51,65,67,53,54,0,substitute,22,1000000,Spartak Moscow
+D. Sikan,500,19,Ukraine,65,43,64,19,11,0,substitute,45,975000,Shakhtar Donetsk
+M. Glushenkov,500,20,Russia,61,58,65,28,27,0,substitute,15,1000000,Spartak Moscow
+S. Magkeev,500,21,Russia,34,45,42,66,64,0,substitute,37,925000,Lokomotiv Moscow
+A. Kol,8000,19,Turkey,63,57,66,17,21,0,substitute,31,975000,Galatasaray
+B. Adekanye,9000,21,Netherlands,59,55,68,35,30,0,substitute,34,1000000,Lazio
+Andre Anderson,9000,20,Italy,59,60,68,20,15,0,substitute,28,1000000,Lazio
+M. De Cuyper,3000,19,Belgium,62,65,65,64,62,0,substitute,55,900000,Club Brugge
+M. BuSka,7000,20,Poland,0,0,0,10,14,60,goalkeeper,30,725000,Paris Saint-Germain
+Borja Garces,8000,20,Spain,67,46,63,27,24,0,substitute,31,875000,Atletico Madrid
+L. Da Cunha,5000,19,France,60,59,68,38,32,0,substitute,32,850000,Rennes
+O. Urunov,500,19,Uzbekistan,55,61,68,40,41,0,substitute,20,850000,Spartak Moscow
+J. Latibeaudiere,14000,20,England,37,51,57,65,64,0,substitute,52,700000,Manchester City
+L. Brassier,6000,20,France,35,52,62,67,64,0,substitute,24,650000,Rennes
+F. Chabrolle,7000,22,France,57,63,69,38,36,0,substitute,29,700000,Marseille
+A. Phliponeau,5000,20,France,44,63,60,60,62,0,substitute,34,650000,Marseille
+Belman,12000,21,Spain,0,0,0,11,14,62,goalkeeper,35,550000,Real Madrid
+G. Frabotta,9000,21,Italy,48,56,65,67,73,0,midfielder,38,625000,Juventus
+O. Kristinsson,500,31,Iceland,0,0,0,15,19,59,goalkeeper,31,300000,Olympiacos
+L. Pirola,4000,18,Italy,41,47,51,67,66,0,substitute,31,775000,Inter Milan
+T. Pembele,550,17,France,38,57,61,63,62,0,substitute,32,675000,Paris Saint-Germain
+L. Agoume,5000,18,France,54,60,66,54,44,0,substitute,32,750000,Inter Milan
+A. Dedic,500,17,Bosnia Herzegovina,56,63,66,62,57,0,substitute,70,675000,Red Bull Salzburg
+E. Galbraith,8000,19,Northern Ireland,56,60,65,61,60,0,substitute,54,750000,Manchester United
+J. Olschowsky,600,18,Germany,0,0,0,11,11,65,goalkeeper,41,625000,Borussia Mionchengladbach
+Altube,11000,20,Spain,0,0,0,14,14,59,goalkeeper,26,675000,Real Madrid
+A. Trubin,500,18,Ukraine,0,0,0,11,11,69,goalkeeper,81,625000,Shakhtar Donetsk
+L. Samardzic,3000,18,Germany,61,59,71,24,22,0,substitute,20,750000,RB Leipzig
+J. Kadile,2000,17,France,63,52,67,18,20,0,substitute,36,725000,Rennes
+K. Kurt,2000,18,Germany,45,58,67,64,62,0,substitute,33,700000,Borussia Mionchengladbach
+T. Raschl,6000,20,Germany,44,61,66,58,59,0,substitute,37,775000,Borussia Dortmund
+V. Karpov,500,17,Russia,31,54,55,66,64,0,substitute,62,675000,PFC CSKA Moscow
+N. Seiwald,3000,19,Austria,55,63,63,62,56,0,substitute,13,775000,Red Bull Salzburg
+P. Bonet,500,17,DR Congo,0,0,0,13,12,64,goalkeeper,30,500000,Rennes
+M. Mbaye,2000,22,Senegal,0,0,0,11,11,55,goalkeeper,51,525000,Porto
+K. Bennetts,5000,21,England,59,58,68,50,43,0,substitute,37,625000,Borussia Mionchengladbach
+G. Rutter,4000,18,France,63,54,65,22,17,0,substitute,35,600000,Rennes
+R. Tugarev,500,21,Russia,59,62,59,48,57,0,substitute,67,625000,Lokomotiv Moscow
+E. Colley,8000,20,Gambia,66,46,63,14,17,0,substitute,90,650000,Atalanta
+Pepe Mena,4000,22,Spain,51,61,59,69,65,0,substitute,32,550000,Sevilla
+I. Gaponov,500,22,Russia,28,38,40,64,71,0,substitute,56,525000,Spartak Moscow
+A. Okosun,6000,26,Denmark,54,58,61,57,53,0,substitute,57,425000,Midtjylland
+K. Ruiz-Atil,1000,17,Morocco,55,63,71,55,53,0,substitute,36,600000,Paris Saint-Germain
+L. Sucçic,600,17,Croatia,65,66,66,52,42,0,substitute,21,600000,Red Bull Salzburg
+B. Fadiga,5000,19,France,41,57,65,62,56,0,substitute,33,625000,Paris Saint-Germain
+I. Van der Brempt,1000,18,Belgium,30,50,55,59,61,0,substitute,28,575000,Club Brugge
+Famana Quizera,2000,18,Portugal,55,60,71,40,38,0,substitute,27,625000,Borussia Mionchengladbach
+Arribas,7000,18,Spain,46,55,71,36,41,0,substitute,30,625000,Real Madrid
+D. Rensch,500,17,Netherlands,43,56,66,63,67,0,substitute,15,550000,Ajax
+H. Nicolussi Caviglia,8000,20,Italy,51,61,62,59,57,0,substitute,41,650000,Juventus
+T. Musel,5000,20,Germany,61,57,66,25,27,0,substitute,26,675000,Borussia Mionchengladbach
+N. Shinton,1000,19,Belgium,0,0,0,11,12,54,goalkeeper,33,550000,Club Brugge
+M. Doucoure,5000,22,France,31,48,54,65,62,0,substitute,4,550000,Borussia Mionchengladbach
+N. Tiknizyan,500,21,Russia,53,56,62,51,51,0,midfielder,71,575000,PFC CSKA Moscow
+K. Maradishvili,500,20,Russia,54,59,63,62,60,0,midfielder,22,550000,PFC CSKA Moscow
+G. Innocent,5000,20,France,0,0,0,13,12,61,goalkeeper,40,450000,Paris Saint-Germain
+Junior Brumado,4000,21,Brazil,58,45,67,31,21,0,substitute,74,550000,Midtjylland
+A. Ali Mohamed,4000,21,Comoros,39,53,66,63,69,0,substitute,31,500000,Marseille
+L. Coccolo,9000,22,Italy,35,42,58,70,70,0,substitute,53,450000,Juventus
+J. Villalba,5000,21,Paraguay,66,49,64,23,16,0,substitute,20,475000,Borussia Mionchengladbach
+A. Sagna,4000,21,Senegal,59,44,69,39,22,0,substitute,7,475000,Club Brugge
+C. Anene,5000,27,Norway,58,51,60,18,15,0,substitute,52,350000,Midtjylland
+B. Rotenberg,500,34,Finland,38,52,50,63,62,0,substitute,28,110000,Lokomotiv Moscow
+J. Italiano,2000,18,Australia,55,56,68,38,30,0,substitute,44,575000,Borussia Mionchengladbach
+T. Harwood-Bellis,4000,18,England,35,49,53,63,62,0,substitute,78,525000,Manchester City
+L. Unbehaun,2000,19,Germany,0,0,0,10,11,63,goalkeeper,25,450000,Borussia Dortmund
+R. Richard,2000,18,France,37,48,58,61,60,0,substitute,42,475000,Marseille
+Adrian Bernabe,9000,19,Spain,55,56,69,38,36,0,substitute,82,550000,Manchester City
+J. Rahou,750,17,France,58,63,60,54,51,0,substitute,39,500000,Marseille
+C. Kelleher,6000,21,Republic of Ireland,0,0,0,10,14,58,goalkeeper,62,475000,Liverpool
+A. Truffert,2000,18,France,39,53,61,61,60,0,substitute,31,475000,Rennes
+Javi Vazquez,2000,19,Spain,34,52,49,62,60,0,substitute,33,425000,Sevilla
+A. Kamardin,2000,18,France,29,41,43,65,61,0,substitute,37,425000,Marseille
+J. Da Riva,4000,19,Italy,51,61,61,53,49,0,substitute,20,475000,Atalanta
+W. Omari,4000,20,France,33,46,48,66,61,0,substitute,38,400000,Rennes
+S. Drljacça,4000,21,Germany,0,0,0,8,12,57,goalkeeper,40,300000,Borussia Dortmund
+N. Diallo,5000,24,France,34,46,61,66,64,0,substitute,37,300000,Rennes
+T. Doyle,5000,18,England,47,62,63,56,48,0,substitute,69,475000,Manchester City
+D. Traore,2000,17,Ivory Coast,60,53,68,16,22,0,substitute,79,425000,Atalanta
+F. Hartmann,4000,19,Germany,64,48,63,26,20,0,substitute,35,450000,RB Leipzig
+Novoa,2000,17,Spain,63,45,62,20,18,0,substitute,38,425000,RB Leipzig
+G. Isaksen,3000,19,Denmark,54,52,64,40,29,0,substitute,45,450000,Midtjylland
+U. Bertelli,700,16,France,50,60,61,58,53,0,substitute,38,400000,Marseille
+J. Jaloliddinov,500,18,Uzbekistan,60,58,64,27,32,0,substitute,23,425000,Lokomotiv Moscow
+V. Sourlis,500,17,Greece,57,58,60,56,55,0,substitute,90,400000,Olympiacos
+T. Van Den Keybus,2000,19,Belgium,51,58,62,39,48,0,substitute,97,450000,Club Brugge
+A. Apostolopoulos,500,17,Greece,41,47,55,61,60,0,substitute,26,375000,Olympiacos
+D. Kulikov,500,22,Russia,40,60,59,61,58,0,substitute,69,375000,Lokomotiv Moscow
+N. Iosifov,500,19,Russia,62,59,63,27,29,0,substitute,68,350000,Lokomotiv Moscow
+S. Nimely,500,21,Liberia,60,53,59,41,45,0,substitute,66,350000,Spartak Moscow
+Genaro,3000,22,Spain,46,60,60,57,58,0,substitute,36,325000,Sevilla
+F. Rossi,6000,29,Italy,0,0,0,17,16,58,goalkeeper,31,150000,Atalanta
+K. Bafounta,2000,18,France,50,54,60,62,50,0,substitute,34,300000,Borussia Dortmund
+A. Bakir,4000,19,Germany,49,54,67,26,24,0,substitute,39,325000,Borussia Dortmund
+S. Ngapandouetnbu,500,17,Cameroon,0,0,0,10,13,54,goalkeeper,1,250000,Marseille
+M. Ageev,500,20,Russia,63,42,54,19,22,0,substitute,92,350000,Lokomotiv Moscow
+A. Mironov,500,20,Russia,49,60,57,64,62,0,substitute,83,300000,Lokomotiv Moscow
+K. Tzolakis,500,17,Greece,0,0,0,12,12,51,goalkeeper,88,210000,Olympiacos
+D. Borkowski,3000,18,Germany,57,42,58,20,18,0,substitute,41,275000,RB Leipzig
+E. Damergy,500,17,Tunisia,0,0,0,13,10,54,goalkeeper,40,170000,Rennes
+S. Lammens,500,17,Belgium,0,0,0,15,12,43,goalkeeper,91,170000,Club Brugge
+S. Asoma,500,17,Belgium,41,51,55,65,62,0,substitute,6,190000,Club Brugge
+I. Karargyris,500,18,Greece,0,0,0,11,12,51,goalkeeper,44,180000,Olympiacos
+E. Martel,2000,18,Germany,30,34,35,65,62,0,substitute,36,200000,RB Leipzig
+I. Golosov,500,18,Russia,35,38,53,60,61,0,substitute,61,170000,Spartak Moscow
+N. Kotin,500,17,Russia,31,31,38,63,60,0,substitute,13,170000,PFC CSKA Moscow
+P. Osterhage,5000,20,Germany,42,54,63,43,47,0,substitute,31,200000,Borussia Dortmund
+O. Ottesen,2000,21,Denmark,0,0,0,12,11,56,goalkeeper,30,100000,Midtjylland
+T. Schreiber,550,18,Germany,0,0,0,10,14,51,goalkeeper,32,120000,RB Leipzig
+D. Bokov,500,17,Russia,0,0,0,12,11,49,goalkeeper,45,50000,PFC CSKA Moscow

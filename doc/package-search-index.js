@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Championship_Stage"},{"l":"Club"},{"l":"database"},{"l":"GUI"},{"l":"Match_Simulator"},{"l":"Schedule"},{"l":"soccer_manager"},{"l":"test"}];updateSearchResults();

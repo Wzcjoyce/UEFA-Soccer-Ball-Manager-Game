@@ -1,0 +1,77 @@
+package GUI;
+
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+
+import soccer_manager.GameController;
+
+public class Round_16_View extends JFrame implements ActionListener {
+	JButton go_back_to_main_menu;
+	JButton go_back_to_UEFA_view;
+	
+	Game_Play_Main_Menu game_play_main_menu;
+	UEFA_button_View UEFA_view;
+	JTextPane Game_Score_panel;
+	JScrollPane Game_Score_scroll_panel;
+	
+	public static String Round_of_16_Score_results = "UEFA Round of 16 Result:\n\n";
+	
+	public Round_16_View(Game_Play_Main_Menu game_play_main_menu, UEFA_button_View UEFA_view)
+	{
+		this.game_play_main_menu = game_play_main_menu;
+		this.UEFA_view = UEFA_view;
+
+		getContentPane().setBackground(new Color(100, 149, 237));
+		getContentPane().setLayout(null);
+		
+		go_back_to_main_menu = new JButton("Main Menu");
+		go_back_to_main_menu.setFont(new Font("Sitka Display", Font.BOLD | Font.ITALIC, 12));
+		go_back_to_main_menu.setBackground(new Color(240, 255, 240));
+		go_back_to_main_menu.setBounds(623, 489, 131, 32);
+		go_back_to_main_menu.addActionListener(this);
+		getContentPane().add(go_back_to_main_menu);
+		
+		go_back_to_UEFA_view = new JButton("Previous Page");
+		go_back_to_UEFA_view.setFont(new Font("Sitka Display", Font.BOLD | Font.ITALIC, 12));
+		go_back_to_UEFA_view.setBackground(new Color(240, 255, 240));
+		go_back_to_UEFA_view.setBounds(447, 489, 144, 32);
+		go_back_to_UEFA_view.addActionListener(this);
+		getContentPane().add(go_back_to_UEFA_view);
+
+		Round_16_title = new JTextPane();
+		Round_16_title.setEditable(false);
+		Round_16_title.setForeground(new Color(255, 255, 255));
+		Round_16_title.setBackground(new Color(100, 149, 237));
+		Round_16_title.setFont(new Font("Times New Roman", Font.BOLD, 34));
+		Round_16_title.setText("UEFA Round 16 Match Results");
+		Round_16_title.setBounds(77, 11, 641, 67);
+		getContentPane().add(Round_16_title);
+	}
+	
+	
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		JButton round_16_view_button = (JButton) e.getSource();
+		if(round_16_view_button == go_back_to_main_menu)
+		{
+			GameController.pauseGame(200);
+			this.setVisible(false);
+			this.dispose();
+			game_play_main_menu.setVisible(true);
+		}
+		else if(round_16_view_button == go_back_to_UEFA_view)
+		{
+			GameController.pauseGame(200);
+			this.setVisible(false);
+			this.dispose();
+			UEFA_view.setVisible(true);
+		}
+		
+	}
+
+}
