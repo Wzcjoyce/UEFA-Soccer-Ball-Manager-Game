@@ -1,6 +1,6 @@
 # UEFA-Soccer-Ball-Manager-Game
 
-This is my individual Final Project from NEU OOD course CS5004
+This is my individual Final Project from NEU Oriented Object Design Course.
 
 # Note: Please download the menu.gif if you want to play this game
 
